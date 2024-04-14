@@ -1,0 +1,162 @@
+restaurant_name,categories,address,station_name,distance
+Pizzeria Alle Scalette,Pizzeria,Viale Curtatone 18,Curtatone,22
+Zest Ristorante & Winebar,"Wine Bar, Cafe, Coffee, and Tea House, Italian Restaurant",Costa di Sant'Antonio 13,Curtatone,179
+Osteria Il Campaccio,Trattoria,Vicolo del Campaccio 2,Curtatone,176
+Morbidi,Deli,Via B. di Sopra 73,Curtatone,248
+Osteria L'Osteria,Italian Restaurant,Via dei Rossi 79,Curtatone,342
+Enzo,"Hair Salon, Restaurant",Via Camollia 49,Curtatone,299
+Antica Osteria da Divo,"French Restaurant, Italian Restaurant, Mediterranean Restaurant",Via Franciosa 25,Curtatone,398
+Caffè Fiorella,Café,Via di Città 13,Curtatone,394
+Ristorante Taverna di Cecco,Italian Restaurant,Via Cecco Angiolieri 19,Curtatone,348
+Pasticceria Corsini Siena,"Bakery, Café, Restaurant",Viale A. Diaz,Curtatone,391
+La Taverna di San Giuseppe,"Tuscan Restaurant, Mediterranean Restaurant",Via Giovanni Duprè 132,S. Agostino,109
+Osteria Castelvecchio,"Pizzeria, Trattoria, Tuscan Restaurant",Via Castelvecchio 65,S. Agostino,102
+Osteria da Cice,Italian Restaurant,Via San Pietro 32,S. Agostino,149
+4 Cantoni Bar Caffetteria,Café,Piazza Postierla 5,S. Agostino,221
+Gino Cacino,Food and Beverage Retail,Piazza del Mercato 31,S. Agostino,352
+Grotta Gallo Nero,Italian Restaurant,Via Porrione 65,S. Agostino,448
+Gallo Nero,Italian Restaurant,Via del Porrione 65,S. Agostino,458
+Caffè Fiorella,Café,Via di Città 13,S. Agostino,468
+La Prosciutteria,"Bar, Italian Restaurant, Tapas Restaurant",Via di Pantaneto 89,S. Agostino,507
+Zest Ristorante & Winebar,"Wine Bar, Cafe, Coffee, and Tea House, Italian Restaurant",Costa di Sant'Antonio 13,S. Agostino,643
+Osteria La Sosta di Violante,Trattoria,Via di Pantaneto 115,S. Girolamo,123
+La Prosciutteria,"Bar, Italian Restaurant, Tapas Restaurant",Via di Pantaneto 89,S. Girolamo,223
+Gallo Nero,Italian Restaurant,Via del Porrione 65,S. Girolamo,275
+Grotta Gallo Nero,Italian Restaurant,Via Porrione 65,S. Girolamo,295
+Gino Cacino,Food and Beverage Retail,Piazza del Mercato 31,S. Girolamo,399
+Ristorante La Finestra,"Diner, Italian Restaurant",Piazza Mercato 14,S. Girolamo,414
+La Taverna di San Giuseppe,"Tuscan Restaurant, Mediterranean Restaurant",Via Giovanni Duprè 132,S. Girolamo,458
+Osteria Il Carroccio,Trattoria,Via Casato di Sotto 32,S. Girolamo,474
+La Bottega Del Caffè,"Bar, Café, Restaurant",Via Banchi di Sotto 39,S. Girolamo,473
+Osteria Castelvecchio,"Pizzeria, Trattoria, Tuscan Restaurant",Via Castelvecchio 65,S. Girolamo,567
+Osteria Il Campaccio,Trattoria,Vicolo del Campaccio 2,Fortezza,429
+Pizzeria Alle Scalette,Pizzeria,Viale Curtatone 18,Fortezza,418
+Zest Ristorante & Winebar,"Wine Bar, Cafe, Coffee, and Tea House, Italian Restaurant",Costa di Sant'Antonio 13,Fortezza,456
+Antica Osteria da Divo,"French Restaurant, Italian Restaurant, Mediterranean Restaurant",Via Franciosa 25,Fortezza,487
+Pasticceria Corsini Siena,"Bakery, Café, Restaurant",Viale A. Diaz,Fortezza,515
+Bar Silvana,,Viale XXIV MAGGIO 52,Fortezza,249
+Enzo,"Hair Salon, Restaurant",Via Camollia 49,Fortezza,566
+Ristorante San Desiderio,"Pizzeria, Italian Restaurant",Piazzetta Bonelli Luigi 2,Fortezza,623
+Caffè Fiorella,Café,Via di Città 13,Fortezza,648
+Morbidi,Deli,Via B. di Sopra 73,Fortezza,612
+Ravioli Wang,Chinese Restaurant,Viale Vittorio Emanuele II 38,Antiporto,122
+Turkish Pace Kebap,Turkish Restaurant,Viale Vittorio Emanuele II 21,Antiporto,237
+Sushiko,Sushi Restaurant,Piazzale Carlo Rosselli 25,Antiporto,199
+Osteria Il Vinaio,"Deli, Tuscan Restaurant",Via Camollia 167,Antiporto,443
+Charlie Bar,"Wine Bar, Café, Restaurant",Viale Camillo Benso Conte di Cavour 58,Antiporto,252
+Osteria di Kamollia,"Trattoria, Tuscan Restaurant",Via Camollia 114,Antiporto,550
+Osteria La Piana,Trattoria,Via Camollia 122,Antiporto,500
+Trattoria Fonte Giusta,"Trattoria, Tuscan Restaurant",Via Camollia 102,Antiporto,564
+Pasticceria Corsini Siena,"Bakery, Café, Restaurant",Viale A. Diaz,Antiporto,565
+Enzo,"Hair Salon, Restaurant",Via Camollia 49,Antiporto,712
+Burger King,"Burger Joint, Fast Food Restaurant",Viale Toselli 118,Due Ponti,66
+Donna Ripalta,"BBQ Joint, Italian Restaurant",Viale Pietro Toselli 41,Due Ponti,109
+Festival Snack Bar,Dining and Drinking,Viale Pietro Toselli 120,Due Ponti,150
+Penny Market,"Dining and Drinking, Grocery Store",Via Toselli 11,Due Ponti,152
+Rakki Sushi,Sushi Restaurant,Piazza Maestri del Lavoro 31,Due Ponti,163
+Tabaccheria Due Ponti,Tobacco Store,Strada Statale 73 Levante 1,Due Ponti,181
+Pasticceria Dolceria 2 Ponti,Pastry Shop,Sts 73 Levante 17,Due Ponti,225
+Pasticceria Nocino,Café,Via Aretina 13,Due Ponti,886
+Dolce & Salato,Breakfast Spot,viale Europa 2,Due Ponti,592
+Bar Dell'Artigiano,"Bar, Café, Restaurant",Viale del Artigianato 13,Due Ponti,814
+Fontebecci,"Pizzeria, Italian Restaurant",Via Fiorentina 133,Napoli,64
+Pizzeria Poppi,Pizzeria,Via Fiorentina 105,Napoli,101
+Al Fiumino,"Wine Bar, Buffet, Gastropub",Via Giovanni Paolo II,Napoli,364
+Ristorante Il Mestolo,"Italian Restaurant, Seafood Restaurant",Via Fiorentina 81,Napoli,226
+Bar Acquacalda,"Bar, Café, Restaurant",Via delle Province 14,Napoli,298
+La Veranda,Pizzeria,Piazza Calabria 20,Napoli,601
+Osteria Tanaliberatutti,"Deli, Italian Restaurant",Via Uopini 1,Napoli,538
+Bar Le Terrazze,"Café, Restaurant",Via Quinto Settano 19,Napoli,694
+Bar Giglio,"Bar, Café, Restaurant",Via Colombini 32,Napoli,750
+Ristorante Pizzeria Il Jolly,"Pizzeria, Italian Restaurant",Via Fiorentina 13,Napoli,822
+Mensa San Miniato Ristorante,Restaurant,Via de Nicola 9,Ospedale,206
+Il Palio Restaurant,Restaurant,Via A. Lombardi 41 Four Points by Sheraton,Ospedale,327
+Pizzeria Scacciapensieri,Pizzeria,Via Nazareno Orlandi 21,Ospedale,508
+La Pizzeria di San Miniato,Pizzeria,Piazza Palmiro Togliatti 2,Ospedale,523
+Ristorante Colleverde,Pizzeria,Strada di Scacciapensieri 47,Ospedale,770
+Pizzeria Ristorante Camping Colleverde,Pizzeria,Strada di Scacciapensieri 47,Ospedale,783
+Bar Giglio,"Bar, Café, Restaurant",Via Colombini 32,Acquacalda,163
+Bar Acquacalda,"Bar, Café, Restaurant",Via delle Province 14,Acquacalda,372
+Al Fiumino,"Wine Bar, Buffet, Gastropub",Via Giovanni Paolo II,Acquacalda,711
+Fontebecci,"Pizzeria, Italian Restaurant",Via Fiorentina 133,Acquacalda,668
+Ristorante Il Mestolo,"Italian Restaurant, Seafood Restaurant",Via Fiorentina 81,Acquacalda,502
+Bar Le Terrazze,"Café, Restaurant",Via Quinto Settano 19,Acquacalda,534
+Pizzeria Poppi,Pizzeria,Via Fiorentina 105,Acquacalda,610
+Ristorante Pizzeria Il Jolly,"Pizzeria, Italian Restaurant",Via Fiorentina 13,Acquacalda,675
+Osteria Tanaliberatutti,"Deli, Italian Restaurant",Via Uopini 1,Acquacalda,851
+Bistrot,Restaurant,Viale Franceschi 14,Acquacalda,2789
+La Grotta di San Francesco,"Pizzeria, Italian Restaurant, Soup Spot",Via Baldassarre Peruzzi 20,Ravacciano,206
+Particolare di Siena,Restaurant,Via Baldassarre Peruzzi 26,Ravacciano,208
+Osteria L'Osteria,Italian Restaurant,Via dei Rossi 79,Ravacciano,590
+L'oro di Siena di Luppoli Marcellino & C. SNC,"Pizzeria, Italian Restaurant",Via Giuseppe Garibaldi 61,Ravacciano,621
+La Madonnina Rossa,Restaurant,Via Simone Martini 148,Ravacciano,337
+Sushi Bar,"Trattoria, Japanese Restaurant",Via Domenico Beccafumi 10,Ravacciano,519
+La Prosciutteria,"Bar, Italian Restaurant, Tapas Restaurant",Via di Pantaneto 89,Ravacciano,712
+Grotta Gallo Nero,Italian Restaurant,Via Porrione 65,Ravacciano,758
+Osteria La Sosta di Violante,Trattoria,Via di Pantaneto 115,Ravacciano,736
+Gallo Nero,Italian Restaurant,Via del Porrione 65,Ravacciano,750
+La Pizzeria di San Miniato,Pizzeria,Piazza Palmiro Togliatti 2,S. Miniato,26
+Mensa San Miniato Ristorante,Restaurant,Via de Nicola 9,S. Miniato,536
+Il Palio Restaurant,Restaurant,Via A. Lombardi 41 Four Points by Sheraton,S. Miniato,833
+Sushiko,Sushi Restaurant,Piazzale Carlo Rosselli 25,Terminal Bus,211
+Ravioli Wang,Chinese Restaurant,Viale Vittorio Emanuele II 38,Terminal Bus,415
+Turkish Pace Kebap,Turkish Restaurant,Viale Vittorio Emanuele II 21,Terminal Bus,487
+Osteria Il Vinaio,"Deli, Tuscan Restaurant",Via Camollia 167,Terminal Bus,664
+Osteria di Kamollia,"Trattoria, Tuscan Restaurant",Via Camollia 114,Terminal Bus,765
+Trattoria Fonte Giusta,"Trattoria, Tuscan Restaurant",Via Camollia 102,Terminal Bus,779
+Osteria La Piana,Trattoria,Via Camollia 122,Terminal Bus,719
+Charlie Bar,"Wine Bar, Café, Restaurant",Viale Camillo Benso Conte di Cavour 58,Terminal Bus,474
+Pasticceria Corsini Siena,"Bakery, Café, Restaurant",Viale A. Diaz,Terminal Bus,846
+Enzo,"Hair Salon, Restaurant",Via Camollia 49,Terminal Bus,938
+La Veranda,Pizzeria,Piazza Calabria 20,Vico Alto,49
+Al Fiumino,"Wine Bar, Buffet, Gastropub",Via Giovanni Paolo II,Vico Alto,331
+Fontebecci,"Pizzeria, Italian Restaurant",Via Fiorentina 133,Vico Alto,532
+Pizzeria Poppi,Pizzeria,Via Fiorentina 105,Vico Alto,519
+Ristorante Il Mestolo,"Italian Restaurant, Seafood Restaurant",Via Fiorentina 81,Vico Alto,556
+Bar Le Terrazze,"Café, Restaurant",Via Quinto Settano 19,Vico Alto,750
+Ristorante Pizzeria Il Jolly,"Pizzeria, Italian Restaurant",Via Fiorentina 13,Vico Alto,782
+Bar Mens Sana,"Bar, Café, Restaurant",Via Bartalini 1,Vico Alto,826
+Macelleria Parenti,Steakhouse,Viale Camillo Benso Conte di Cavour 228,Vico Alto,842
+Bar Acquacalda,"Bar, Café, Restaurant",Via delle Province 14,Vico Alto,852
+L'oro di Siena di Luppoli Marcellino & C. SNC,"Pizzeria, Italian Restaurant",Via Giuseppe Garibaldi 61,Casa dell'Ambiente,295
+Sushi Bar,"Trattoria, Japanese Restaurant",Via Domenico Beccafumi 10,Casa dell'Ambiente,198
+Osteria L'Osteria,Italian Restaurant,Via dei Rossi 79,Casa dell'Ambiente,579
+Osteria di Kamollia,"Trattoria, Tuscan Restaurant",Via Camollia 114,Casa dell'Ambiente,551
+Trattoria Fonte Giusta,"Trattoria, Tuscan Restaurant",Via Camollia 102,Casa dell'Ambiente,545
+Enzo,"Hair Salon, Restaurant",Via Camollia 49,Casa dell'Ambiente,541
+Osteria Il Vinaio,"Deli, Tuscan Restaurant",Via Camollia 167,Casa dell'Ambiente,607
+La Grotta di San Francesco,"Pizzeria, Italian Restaurant, Soup Spot",Via Baldassarre Peruzzi 20,Casa dell'Ambiente,503
+Tre Cristi,Italian Restaurant,Vicolo di Provenzano 1,Casa dell'Ambiente,586
+Osteria Le Sorelline,Restaurant,Via dei Rossi 76,Casa dell'Ambiente,560
+Enzo Sushi,Restaurant,Via Paolo Frajese 63,Frajese,44
+Cannoleria Ke Cassata,Restaurant,Strada di Pescaia 117,Frajese,118
+Da Michele,"Pizzeria, Italian Restaurant, Soup Spot",Strada Massetana 64,Frajese,134
+Il Tagliere di Lele,"Bar, Gastropub, Pizzeria",Strada Pescaia 129,Frajese,137
+Centotre Art Pizza Bar,Pizzeria,Strada di Pescaia 129,Frajese,142
+Bar Rigacci,Café,Via di Pescaia 129,Frajese,162
+Roadhouse,Restaurant,Strada di Montalbuccio 2,Frajese,178
+Il Barrino,"Wine Bar, Café, Sandwich Spot",Via Massetana Romana 5,Frajese,358
+Il Portico Braceria,"Cafe, Coffee, and Tea House, Pizzeria",Strada di Pescaia 53,Frajese,487
+METROPOLIS caffé,Café,Via Paolo Frajese 23,Frajese,529
+Gino Cacino,Food and Beverage Retail,Piazza del Mercato 31,Mercato,49
+Ristorante La Finestra,"Diner, Italian Restaurant",Piazza Mercato 14,Mercato,63
+Grotta Gallo Nero,Italian Restaurant,Via Porrione 65,Mercato,110
+Gallo Nero,Italian Restaurant,Via del Porrione 65,Mercato,126
+Osteria Il Carroccio,Trattoria,Via Casato di Sotto 32,Mercato,124
+La Prosciutteria,"Bar, Italian Restaurant, Tapas Restaurant",Via di Pantaneto 89,Mercato,194
+La Taverna di San Giuseppe,"Tuscan Restaurant, Mediterranean Restaurant",Via Giovanni Duprè 132,Mercato,237
+La Bottega Del Caffè,"Bar, Café, Restaurant",Via Banchi di Sotto 39,Mercato,202
+Caffè Fiorella,Café,Via di Città 13,Mercato,235
+Ristorante San Desiderio,"Pizzeria, Italian Restaurant",Piazzetta Bonelli Luigi 2,Mercato,244
+Mensa San Miniato Ristorante,Restaurant,Via de Nicola 9,Calamandrei,110
+Il Palio Restaurant,Restaurant,Via A. Lombardi 41 Four Points by Sheraton,Calamandrei,448
+La Pizzeria di San Miniato,Pizzeria,Piazza Palmiro Togliatti 2,Calamandrei,576
+La Veranda,Pizzeria,Piazza Calabria 20,Calamandrei,856
+Pizzeria Scacciapensieri,Pizzeria,Via Nazareno Orlandi 21,Calamandrei,614
+Ristorante Colleverde,Pizzeria,Strada di Scacciapensieri 47,Calamandrei,974
+Pizzeria Ristorante Camping Colleverde,Pizzeria,Strada di Scacciapensieri 47,Calamandrei,979
+Bar Giglio,"Bar, Café, Restaurant",Via Colombini 32,Petriccio,297
+Al Fiumino,"Wine Bar, Buffet, Gastropub",Via Giovanni Paolo II,Petriccio,672
+Ristorante Il Mestolo,"Italian Restaurant, Seafood Restaurant",Via Fiorentina 81,Petriccio,580
+Fontebecci,"Pizzeria, Italian Restaurant",Via Fiorentina 133,Petriccio,810
+Pizzeria La Fenice Siena,Pizzeria,Via Fiorentina 88,Petriccio,648

@@ -1,0 +1,376 @@
+latitude,longitude,number_of_bikes,station_name,restaurant_name,categories,address,review_count,rating,distance
+43.32159969615422,11.327948187171955,16,Curtatone,La taverna di san giuseppe,Tuscan,Via giovanni dupre 132,169.0,4.8,745.3950068003921
+43.32159969615422,11.327948187171955,16,Curtatone,Zest,"Italian, wine bars",Costa di sant'antonio 13,26.0,4.7,177.8481186916926
+43.32159969615422,11.327948187171955,16,Curtatone,Compagnia dei vinattieri,Tuscan,"Via delle terme, 79",24.0,4.3,231.84660552404864
+43.32159969615422,11.327948187171955,16,Curtatone,La chiacchiera,Italian,Via costa di san antonio 4,23.0,4.3,181.20068979429377
+43.32159969615422,11.327948187171955,16,Curtatone,Café nannini,Cafes,Piazza matteotti 32,14.0,4.4,60.45122208199806
+43.32159969615422,11.327948187171955,16,Curtatone,Il bargello,"Bars, trattorie, tuscan",Via di citta' 53,23.0,4.5,465.0334648689132
+43.32159969615422,11.327948187171955,16,Curtatone,Pizzeria alle scalette,Pizza,Viale curtatone 18,5.0,4.6,26.635507807969088
+43.32159969615422,11.327948187171955,16,Curtatone,Antica osteria da divo,Italian,Via franciosa 25,67.0,4.2,412.4497868613417
+43.32159969615422,11.327948187171955,16,Curtatone,Salefino vino e cucina,"Tuscan, wine bars",Via degli umiliati 1,11.0,4.5,298.4833678900178
+43.32159969615422,11.327948187171955,16,Curtatone,Ristorante san domenico,Tuscan,Via di camporegio 15,7.0,4.7,163.22780679686343
+43.32159969615422,11.327948187171955,16,Curtatone,Nannini,"Desserts, patisserie/cake shop, cafes",Via banchi di sopra 24,20.0,4.2,376.55797407280886
+43.32159969615422,11.327948187171955,16,Curtatone,Fonte giusta,Tuscan,Via camollia 102,21.0,4.6,454.91040632564426
+43.32159969615422,11.327948187171955,16,Curtatone,Taverna di cecco,Tuscan,Via cecco angliolieri 19,52.0,4.5,369.2584912395237
+43.32159969615422,11.327948187171955,16,Curtatone,La prosciutteria,"Wine bars, tuscan",Via di pantaneto,34.0,4.7,718.0945365772096
+43.32159969615422,11.327948187171955,16,Curtatone,Antica trattoria papei,"Tuscan, trattorie",Via del mercato 6,35.0,4.2,554.194906979694
+43.32159969615422,11.327948187171955,16,Curtatone,Prètto,"Salumerie, cheese shops, tuscan",Via dei termini 4,12.0,4.1,343.71631006857746
+43.32159969615422,11.327948187171955,16,Curtatone,Il masgalano,"Tuscan, pizza",Via camporegio 1,4.0,4.8,152.82984033641412
+43.32159969615422,11.327948187171955,16,Curtatone,Pizzeria di nonno mede,"Pizza, tuscan",Via camporegio 21,16.0,4.1,151.88989586507486
+43.32159969615422,11.327948187171955,16,Curtatone,Trattoria la tellina,"Mediterranean, tuscan, trattorie",Via delle terme 52,6.0,4.3,256.6346024096472
+43.32159969615422,11.327948187171955,16,Curtatone,Vi vace,"Pizza, italian",Via stalloreggi 64,34.0,4.3,695.068416472932
+43.32159969615422,11.327948187171955,16,Curtatone,Pizzeria alle scalette,Pizzeria,Viale curtatone 18,,,22.0
+43.32159969615422,11.327948187171955,16,Curtatone,Zest ristorante & winebar,"Wine bar, cafe, coffee, and tea house, italian restaurant",Costa di sant'antonio 13,,,179.0
+43.32159969615422,11.327948187171955,16,Curtatone,Osteria il campaccio,Trattoria,Vicolo del campaccio 2,,,176.0
+43.32159969615422,11.327948187171955,16,Curtatone,Morbidi,Deli,Via b. di sopra 73,,,248.0
+43.32159969615422,11.327948187171955,16,Curtatone,Osteria l'osteria,Italian restaurant,Via dei rossi 79,,,342.0
+43.32159969615422,11.327948187171955,16,Curtatone,Enzo,"Hair salon, restaurant",Via camollia 49,,,299.0
+43.32159969615422,11.327948187171955,16,Curtatone,Antica osteria da divo,"French restaurant, italian restaurant, mediterranean restaurant",Via franciosa 25,,,398.0
+43.32159969615422,11.327948187171955,16,Curtatone,Caffè fiorella,Café,Via di città 13,,,394.0
+43.32159969615422,11.327948187171955,16,Curtatone,Ristorante taverna di cecco,Italian restaurant,Via cecco angiolieri 19,,,348.0
+43.32159969615422,11.327948187171955,16,Curtatone,Pasticceria corsini siena,"Bakery, café, restaurant",Viale a. diaz,,,391.0
+43.314553575496504,11.331021341104474,10,S. agostino,La taverna di san giuseppe,Tuscan,Via giovanni dupre 132,169.0,4.8,116.51204037035676
+43.314553575496504,11.331021341104474,10,S. agostino,Il bargello,"Bars, trattorie, tuscan",Via di citta' 53,23.0,4.5,377.9902043525125
+43.314553575496504,11.331021341104474,10,S. agostino,Vi vace,"Pizza, italian",Via stalloreggi 64,34.0,4.3,245.5150549441023
+43.314553575496504,11.331021341104474,10,S. agostino,Numero unico,Italian,Via di citta 125,17.0,4.5,229.80562391061432
+43.314553575496504,11.331021341104474,10,S. agostino,Ri.me.,Tuscan,Via giovanni duprè 90,15.0,4.3,150.1032246321722
+43.314553575496504,11.331021341104474,10,S. agostino,Antica trattoria papei,"Tuscan, trattorie",Via del mercato 6,35.0,4.2,355.47822262044923
+43.314553575496504,11.331021341104474,10,S. agostino,Ostaria dá cice,Italian,Via san pietro 32,14.0,4.0,156.5535925287775
+43.314553575496504,11.331021341104474,10,S. agostino,Antica osteria da divo,Italian,Via franciosa 25,67.0,4.2,445.3660066143102
+43.314553575496504,11.331021341104474,10,S. agostino,La prosciutteria,"Wine bars, tuscan",Via di pantaneto,34.0,4.7,513.7995026062024
+43.314553575496504,11.331021341104474,10,S. agostino,Zest,"Italian, wine bars",Costa di sant'antonio 13,26.0,4.7,645.9591950321129
+43.314553575496504,11.331021341104474,10,S. agostino,Osteria castelvecchio,Tuscan,Via castelvecchio 65,10.0,4.4,109.79334227352858
+43.314553575496504,11.331021341104474,10,S. agostino,Spadaforte,Pizza,Piazza del campo 13,11.0,4.3,373.35999249433934
+43.314553575496504,11.331021341104474,10,S. agostino,Ristorante san desiderio,Italian,Piazza l. bonelli 2,16.0,3.9,374.9698477042822
+43.314553575496504,11.331021341104474,10,S. agostino,Pizzicheria de miccoli,Pizza,Via di città 95,26.0,4.6,273.87921888412967
+43.314553575496504,11.331021341104474,10,S. agostino,Antica trattoria stalloreggi,Tuscan,Via stalloreggi 37,5.0,4.2,176.98572633515437
+43.314553575496504,11.331021341104474,10,S. agostino,Gallo nero,Tuscan,Via del porrione 65,11.0,4.4,460.2775829889477
+43.314553575496504,11.331021341104474,10,S. agostino,Osteria nonna gina,Tuscan,"Via piano dei mantellini, 2",38.0,4.2,302.42143628284873
+43.314553575496504,11.331021341104474,10,S. agostino,Compagnia dei vinattieri,Tuscan,"Via delle terme, 79",24.0,4.3,636.0952648988349
+43.314553575496504,11.331021341104474,10,S. agostino,Taverna di cecco,Tuscan,Via cecco angliolieri 19,52.0,4.5,610.0620909245414
+43.314553575496504,11.331021341104474,10,S. agostino,Osteria permalico,"Desserts, wine bars, italian",Via costa larga 4,5.0,4.6,225.6070924441927
+43.314553575496504,11.331021341104474,10,S. agostino,La taverna di san giuseppe,"Tuscan restaurant, mediterranean restaurant",Via giovanni duprè 132,,,109.0
+43.314553575496504,11.331021341104474,10,S. agostino,Osteria castelvecchio,"Pizzeria, trattoria, tuscan restaurant",Via castelvecchio 65,,,102.0
+43.314553575496504,11.331021341104474,10,S. agostino,Osteria da cice,Italian restaurant,Via san pietro 32,,,149.0
+43.314553575496504,11.331021341104474,10,S. agostino,4 cantoni bar caffetteria,Café,Piazza postierla 5,,,221.0
+43.314553575496504,11.331021341104474,10,S. agostino,Gino cacino,Food and beverage retail,Piazza del mercato 31,,,352.0
+43.314553575496504,11.331021341104474,10,S. agostino,Grotta gallo nero,Italian restaurant,Via porrione 65,,,448.0
+43.314553575496504,11.331021341104474,10,S. agostino,Gallo nero,Italian restaurant,Via del porrione 65,,,458.0
+43.314553575496504,11.331021341104474,10,S. agostino,Caffè fiorella,Café,Via di città 13,,,468.0
+43.314553575496504,11.331021341104474,10,S. agostino,La prosciutteria,"Bar, italian restaurant, tapas restaurant",Via di pantaneto 89,,,507.0
+43.314553575496504,11.331021341104474,10,S. agostino,Zest ristorante & winebar,"Wine bar, cafe, coffee, and tea house, italian restaurant",Costa di sant'antonio 13,,,643.0
+43.31653903296188,11.337211648409948,7,S. girolamo,La taverna di san giuseppe,Tuscan,Via giovanni dupre 132,169.0,4.8,461.20096407182047
+43.31653903296188,11.337211648409948,7,S. girolamo,La prosciutteria,"Wine bars, tuscan",Via di pantaneto,34.0,4.7,222.5376273877203
+43.31653903296188,11.337211648409948,7,S. girolamo,Antica trattoria papei,"Tuscan, trattorie",Via del mercato 6,35.0,4.2,429.7383012418058
+43.31653903296188,11.337211648409948,7,S. girolamo,Gallo nero,Tuscan,Via del porrione 65,11.0,4.4,277.35628275338746
+43.31653903296188,11.337211648409948,7,S. girolamo,Il bargello,"Bars, trattorie, tuscan",Via di citta' 53,23.0,4.5,545.8638202332528
+43.31653903296188,11.337211648409948,7,S. girolamo,Osteria la sosta di violante,Tuscan,Via di pantaneto 115,25.0,4.6,123.36406670033232
+43.31653903296188,11.337211648409948,7,S. girolamo,Zest,"Italian, wine bars",Costa di sant'antonio 13,26.0,4.7,784.9978948398616
+43.31653903296188,11.337211648409948,7,S. girolamo,Bio & chocolate,"Cafes, desserts, vegan",Via pantaneto 75,6.0,4.8,246.2712721802299
+43.31653903296188,11.337211648409948,7,S. girolamo,Antica osteria da divo,Italian,Via franciosa 25,67.0,4.2,762.0858176320125
+43.31653903296188,11.337211648409948,7,S. girolamo,Ri.me.,Tuscan,Via giovanni duprè 90,15.0,4.3,447.0056201412074
+43.31653903296188,11.337211648409948,7,S. girolamo,Taverna di cecco,Tuscan,Via cecco angliolieri 19,52.0,4.5,573.9060734249756
+43.31653903296188,11.337211648409948,7,S. girolamo,Vi vace,"Pizza, italian",Via stalloreggi 64,34.0,4.3,741.5985604750571
+43.31653903296188,11.337211648409948,7,S. girolamo,Numero unico,Italian,Via di citta 125,17.0,4.5,571.4223858193872
+43.31653903296188,11.337211648409948,7,S. girolamo,Compagnia dei vinattieri,Tuscan,"Via delle terme, 79",24.0,4.3,706.039017982908
+43.31653903296188,11.337211648409948,7,S. girolamo,Osteria babazuf,Pizza,"Via di pantaneto, 85",12.0,4.7,226.61489290855485
+43.31653903296188,11.337211648409948,7,S. girolamo,Osteria le logge,Italian,Via del porrione 33,33.0,4.1,399.0541747992876
+43.31653903296188,11.337211648409948,7,S. girolamo,La chiacchiera,Italian,Via costa di san antonio 4,23.0,4.3,781.2253871865912
+43.31653903296188,11.337211648409948,7,S. girolamo,Spadaforte,Pizza,Piazza del campo 13,11.0,4.3,510.8926641727967
+43.31653903296188,11.337211648409948,7,S. girolamo,Nannini,"Desserts, patisserie/cake shop, cafes",Via banchi di sopra 24,20.0,4.2,560.5996744621643
+43.31653903296188,11.337211648409948,7,S. girolamo,L'orto de' pecci,Italian,Via di porta giustizia 39,2.0,5.0,250.27571170718153
+43.31653903296188,11.337211648409948,7,S. girolamo,Osteria la sosta di violante,Trattoria,Via di pantaneto 115,,,123.0
+43.31653903296188,11.337211648409948,7,S. girolamo,La prosciutteria,"Bar, italian restaurant, tapas restaurant",Via di pantaneto 89,,,223.0
+43.31653903296188,11.337211648409948,7,S. girolamo,Gallo nero,Italian restaurant,Via del porrione 65,,,275.0
+43.31653903296188,11.337211648409948,7,S. girolamo,Grotta gallo nero,Italian restaurant,Via porrione 65,,,295.0
+43.31653903296188,11.337211648409948,7,S. girolamo,Gino cacino,Food and beverage retail,Piazza del mercato 31,,,399.0
+43.31653903296188,11.337211648409948,7,S. girolamo,Ristorante la finestra,"Diner, italian restaurant",Piazza mercato 14,,,414.0
+43.31653903296188,11.337211648409948,7,S. girolamo,La taverna di san giuseppe,"Tuscan restaurant, mediterranean restaurant",Via giovanni duprè 132,,,458.0
+43.31653903296188,11.337211648409948,7,S. girolamo,Osteria il carroccio,Trattoria,Via casato di sotto 32,,,474.0
+43.31653903296188,11.337211648409948,7,S. girolamo,La bottega del caffè,"Bar, café, restaurant",Via banchi di sotto 39,,,473.0
+43.31653903296188,11.337211648409948,7,S. girolamo,Osteria castelvecchio,"Pizzeria, trattoria, tuscan restaurant",Via castelvecchio 65,,,567.0
+43.3205234076899,11.32322528552777,10,Fortezza,La taverna di san giuseppe,Tuscan,Via giovanni dupre 132,169.0,4.8,885.992016456265
+43.3205234076899,11.32322528552777,10,Fortezza,Zest,"Italian, wine bars",Costa di sant'antonio 13,26.0,4.7,458.7434934602833
+43.3205234076899,11.32322528552777,10,Fortezza,Antica osteria da divo,Italian,Via franciosa 25,67.0,4.2,483.1803350838144
+43.3205234076899,11.32322528552777,10,Fortezza,Il bargello,"Bars, trattorie, tuscan",Via di citta' 53,23.0,4.5,672.625868490733
+43.3205234076899,11.32322528552777,10,Fortezza,La chiacchiera,Italian,Via costa di san antonio 4,23.0,4.3,461.976125360324
+43.3205234076899,11.32322528552777,10,Fortezza,La prosciutteria,"Wine bars, tuscan",Via di pantaneto,34.0,4.7,1016.6053701749144
+43.3205234076899,11.32322528552777,10,Fortezza,Café nannini,Cafes,Piazza matteotti 32,14.0,4.4,460.57547495669
+43.3205234076899,11.32322528552777,10,Fortezza,Compagnia dei vinattieri,Tuscan,"Via delle terme, 79",24.0,4.3,558.3799412847043
+43.3205234076899,11.32322528552777,10,Fortezza,Fonte giusta,Tuscan,Via camollia 102,21.0,4.6,653.4525306559705
+43.3205234076899,11.32322528552777,10,Fortezza,Vi vace,"Pizza, italian",Via stalloreggi 64,34.0,4.3,701.5592869266634
+43.3205234076899,11.32322528552777,10,Fortezza,Antica trattoria papei,"Tuscan, trattorie",Via del mercato 6,35.0,4.2,787.6409772933519
+43.3205234076899,11.32322528552777,10,Fortezza,Ristorante san domenico,Tuscan,Via di camporegio 15,7.0,4.7,394.4324311798781
+43.3205234076899,11.32322528552777,10,Fortezza,Numero unico,Italian,Via di citta 125,17.0,4.5,715.4319767767048
+43.3205234076899,11.32322528552777,10,Fortezza,Taverna di cecco,Tuscan,Via cecco angliolieri 19,52.0,4.5,707.9836792142835
+43.3205234076899,11.32322528552777,10,Fortezza,Il masgalano,"Tuscan, pizza",Via camporegio 1,4.0,4.8,333.4194326610983
+43.3205234076899,11.32322528552777,10,Fortezza,Salefino vino e cucina,"Tuscan, wine bars",Via degli umiliati 1,11.0,4.5,579.4947325335404
+43.3205234076899,11.32322528552777,10,Fortezza,Ri.me.,Tuscan,Via giovanni duprè 90,15.0,4.3,870.201133815654
+43.3205234076899,11.32322528552777,10,Fortezza,Pizzeria alle scalette,Pizza,Viale curtatone 18,5.0,4.6,395.28932369786094
+43.3205234076899,11.32322528552777,10,Fortezza,Nannini,"Desserts, patisserie/cake shop, cafes",Via banchi di sopra 24,20.0,4.2,691.1534525262215
+43.3205234076899,11.32322528552777,10,Fortezza,Gallo nero,Tuscan,Via del porrione 65,11.0,4.4,945.5898802856852
+43.3205234076899,11.32322528552777,10,Fortezza,Osteria il campaccio,Trattoria,Vicolo del campaccio 2,,,429.0
+43.3205234076899,11.32322528552777,10,Fortezza,Pizzeria alle scalette,Pizzeria,Viale curtatone 18,,,418.0
+43.3205234076899,11.32322528552777,10,Fortezza,Zest ristorante & winebar,"Wine bar, cafe, coffee, and tea house, italian restaurant",Costa di sant'antonio 13,,,456.0
+43.3205234076899,11.32322528552777,10,Fortezza,Antica osteria da divo,"French restaurant, italian restaurant, mediterranean restaurant",Via franciosa 25,,,487.0
+43.3205234076899,11.32322528552777,10,Fortezza,Pasticceria corsini siena,"Bakery, café, restaurant",Viale a. diaz,,,515.0
+43.3205234076899,11.32322528552777,10,Fortezza,Bar silvana,,Viale xxiv maggio 52,,,249.0
+43.3205234076899,11.32322528552777,10,Fortezza,Enzo,"Hair salon, restaurant",Via camollia 49,,,566.0
+43.3205234076899,11.32322528552777,10,Fortezza,Ristorante san desiderio,"Pizzeria, italian restaurant",Piazzetta bonelli luigi 2,,,623.0
+43.3205234076899,11.32322528552777,10,Fortezza,Caffè fiorella,Café,Via di città 13,,,648.0
+43.3205234076899,11.32322528552777,10,Fortezza,Morbidi,Deli,Via b. di sopra 73,,,612.0
+43.32898332166825,11.321913356869572,10,Antiporto,Ravioli wang,Chinese,Viale vittorio emanuele ii 38,9.0,4.8,120.58067642097888
+43.32898332166825,11.321913356869572,10,Antiporto,Zest,"Italian, wine bars",Costa di sant'antonio 13,26.0,4.7,1132.2463792402075
+43.32898332166825,11.321913356869572,10,Antiporto,Fonte giusta,Tuscan,Via camollia 102,21.0,4.6,563.9911785537508
+43.32898332166825,11.321913356869572,10,Antiporto,Il vinaio,"Sandwiches, tuscan, fast food",Via camollia 167,12.0,4.3,414.7080485270773
+43.32898332166825,11.321913356869572,10,Antiporto,Compagnia dei vinattieri,Tuscan,"Via delle terme, 79",24.0,4.3,1177.428981530476
+43.32898332166825,11.321913356869572,10,Antiporto,Taverna di cecco,Tuscan,Via cecco angliolieri 19,52.0,4.5,1287.2085725139164
+43.32898332166825,11.321913356869572,10,Antiporto,La chiacchiera,Italian,Via costa di san antonio 4,23.0,4.3,1135.7333916353962
+43.32898332166825,11.321913356869572,10,Antiporto,Salefino vino e cucina,"Tuscan, wine bars",Via degli umiliati 1,11.0,4.5,729.2246722651199
+43.32898332166825,11.321913356869572,10,Antiporto,Café nannini,Cafes,Piazza matteotti 32,14.0,4.4,965.2285567437652
+43.32898332166825,11.321913356869572,10,Antiporto,Ristorante pizzeria i gabellieri,Pizza,Via v. emanuele 75,2.0,4.0,21.55550155548726
+43.32898332166825,11.321913356869572,10,Antiporto,Ristorante san domenico,Tuscan,Via di camporegio 15,7.0,4.7,1102.8594267706262
+43.32898332166825,11.321913356869572,10,Antiporto,Osteria di kamollia,Tuscan,Via di camollia 114,9.0,4.2,553.8601830634374
+43.32898332166825,11.321913356869572,10,Antiporto,L'oro di siena,"Pizza, italian, trattorie",Via garibaldi 61,9.0,4.8,892.8690137883399
+43.32898332166825,11.321913356869572,10,Antiporto,Osteria il grattacielo,Italian,Via pontani 8,36.0,4.1,1205.0572007002395
+43.32898332166825,11.321913356869572,10,Antiporto,Sushiko,"Sushi bars, asian fusion",Piazzale carlo rosselli 25,2.0,4.0,216.55854892762764
+43.32898332166825,11.321913356869572,10,Antiporto,Pizzeria alle scalette,Pizza,Viale curtatone 18,5.0,4.6,979.1505547054104
+43.32898332166825,11.321913356869572,10,Antiporto,Ristorante da enzo,Italian,Via camollia 49,7.0,4.6,691.8371797785406
+43.32898332166825,11.321913356869572,10,Antiporto,Trattoria la tellina,"Mediterranean, tuscan, trattorie",Via delle terme 52,6.0,4.3,1201.964874917085
+43.32898332166825,11.321913356869572,10,Antiporto,Il masgalano,"Tuscan, pizza",Via camporegio 1,4.0,4.8,1060.5260136820502
+43.32898332166825,11.321913356869572,10,Antiporto,Ristorante minohana,Tuscan,Viale vittorio emanuele ii 32,2.0,1.0,152.06299121902896
+43.32898332166825,11.321913356869572,10,Antiporto,Ravioli wang,Chinese restaurant,Viale vittorio emanuele ii 38,,,122.0
+43.32898332166825,11.321913356869572,10,Antiporto,Turkish pace kebap,Turkish restaurant,Viale vittorio emanuele ii 21,,,237.0
+43.32898332166825,11.321913356869572,10,Antiporto,Sushiko,Sushi restaurant,Piazzale carlo rosselli 25,,,199.0
+43.32898332166825,11.321913356869572,10,Antiporto,Osteria il vinaio,"Deli, tuscan restaurant",Via camollia 167,,,443.0
+43.32898332166825,11.321913356869572,10,Antiporto,Charlie bar,"Wine bar, café, restaurant",Viale camillo benso conte di cavour 58,,,252.0
+43.32898332166825,11.321913356869572,10,Antiporto,Osteria di kamollia,"Trattoria, tuscan restaurant",Via camollia 114,,,550.0
+43.32898332166825,11.321913356869572,10,Antiporto,Osteria la piana,Trattoria,Via camollia 122,,,500.0
+43.32898332166825,11.321913356869572,10,Antiporto,Trattoria fonte giusta,"Trattoria, tuscan restaurant",Via camollia 102,,,564.0
+43.32898332166825,11.321913356869572,10,Antiporto,Pasticceria corsini siena,"Bakery, café, restaurant",Viale a. diaz,,,565.0
+43.32898332166825,11.321913356869572,10,Antiporto,Enzo,"Hair salon, restaurant",Via camollia 49,,,712.0
+43.317187429810794,11.354256229005388,12,Due ponti,Donna ripalta,"Tuscan, seafood, apulian",Viale pietro toselli 41,1.0,4.0,84.06785457395976
+43.317187429810794,11.354256229005388,12,Due ponti,Havana club,"Cuban, steakhouses",Piazza maestri del lavoro 27,1.0,5.0,217.53998284698952
+43.317187429810794,11.354256229005388,12,Due ponti,Albergo certosa di maggiano,"Hotels & travel, restaurants","Str. di certosa, 82",2.0,5.0,822.5458659038122
+43.317187429810794,11.354256229005388,12,Due ponti,Burger king,"Burger joint, fast food restaurant",Viale toselli 118,,,66.0
+43.317187429810794,11.354256229005388,12,Due ponti,Donna ripalta,"Bbq joint, italian restaurant",Viale pietro toselli 41,,,109.0
+43.317187429810794,11.354256229005388,12,Due ponti,Festival snack bar,Dining and drinking,Viale pietro toselli 120,,,150.0
+43.317187429810794,11.354256229005388,12,Due ponti,Penny market,"Dining and drinking, grocery store",Via toselli 11,,,152.0
+43.317187429810794,11.354256229005388,12,Due ponti,Rakki sushi,Sushi restaurant,Piazza maestri del lavoro 31,,,163.0
+43.317187429810794,11.354256229005388,12,Due ponti,Tabaccheria due ponti,Tobacco store,Strada statale 73 levante 1,,,181.0
+43.317187429810794,11.354256229005388,12,Due ponti,Pasticceria dolceria 2 ponti,Pastry shop,Sts 73 levante 17,,,225.0
+43.317187429810794,11.354256229005388,12,Due ponti,Pasticceria nocino,Café,Via aretina 13,,,886.0
+43.317187429810794,11.354256229005388,12,Due ponti,Dolce & salato,Breakfast spot,Viale europa 2,,,592.0
+43.317187429810794,11.354256229005388,12,Due ponti,Bar dell'artigiano,"Bar, café, restaurant",Viale del artigianato 13,,,814.0
+43.34175662737405,11.305010457706883,6,Napoli,Fontebecci,"Pizza, italian",Via fiorentina 133,2.0,2.0,36.86679666722005
+43.34175662737405,11.305010457706883,6,Napoli,Mc donald's,"Fast food, burgers",Via fiorentina 124,1.0,2.0,135.94427190183262
+43.34175662737405,11.305010457706883,6,Napoli,La veranda,Italian,Piazza calabria,6.0,4.7,601.6252259216968
+43.34175662737405,11.305010457706883,6,Napoli,Antica trattoria botteganova,"Italian, bars",Strada chiantigiana 29,1.0,5.0,659.4005888623332
+43.34175662737405,11.305010457706883,6,Napoli,Skile' music bar,Cafes,Piazza calabria 18,1.0,3.0,605.2291600282962
+43.34175662737405,11.305010457706883,6,Napoli,Fontebecci,"Pizzeria, italian restaurant",Via fiorentina 133,,,64.0
+43.34175662737405,11.305010457706883,6,Napoli,Pizzeria poppi,Pizzeria,Via fiorentina 105,,,101.0
+43.34175662737405,11.305010457706883,6,Napoli,Al fiumino,"Wine bar, buffet, gastropub",Via giovanni paolo ii,,,364.0
+43.34175662737405,11.305010457706883,6,Napoli,Ristorante il mestolo,"Italian restaurant, seafood restaurant",Via fiorentina 81,,,226.0
+43.34175662737405,11.305010457706883,6,Napoli,Bar acquacalda,"Bar, café, restaurant",Via delle province 14,,,298.0
+43.34175662737405,11.305010457706883,6,Napoli,La veranda,Pizzeria,Piazza calabria 20,,,601.0
+43.34175662737405,11.305010457706883,6,Napoli,Osteria tanaliberatutti,"Deli, italian restaurant",Via uopini 1,,,538.0
+43.34175662737405,11.305010457706883,6,Napoli,Bar le terrazze,"Café, restaurant",Via quinto settano 19,,,694.0
+43.34175662737405,11.305010457706883,6,Napoli,Bar giglio,"Bar, café, restaurant",Via colombini 32,,,750.0
+43.34175662737405,11.305010457706883,6,Napoli,Ristorante pizzeria il jolly,"Pizzeria, italian restaurant",Via fiorentina 13,,,822.0
+43.343243018858246,11.32673330024295,14,Ospedale,Mensa san miniato ristorante,Restaurant,Via de nicola 9,,,206.0
+43.343243018858246,11.32673330024295,14,Ospedale,Il palio restaurant,Restaurant,Via a. lombardi 41 four points by sheraton,,,327.0
+43.343243018858246,11.32673330024295,14,Ospedale,Pizzeria scacciapensieri,Pizzeria,Via nazareno orlandi 21,,,508.0
+43.343243018858246,11.32673330024295,14,Ospedale,La pizzeria di san miniato,Pizzeria,Piazza palmiro togliatti 2,,,523.0
+43.343243018858246,11.32673330024295,14,Ospedale,Ristorante colleverde,Pizzeria,Strada di scacciapensieri 47,,,770.0
+43.343243018858246,11.32673330024295,14,Ospedale,Pizzeria ristorante camping colleverde,Pizzeria,Strada di scacciapensieri 47,,,783.0
+43.33699934605541,11.300974983606013,9,Acquacalda,Hotel garden,"Venues & event spaces, hotels, italian",Via custoza 2,13.0,2.8,1146.6171969068578
+43.33699934605541,11.300974983606013,9,Acquacalda,La veranda,Italian,Piazza calabria,6.0,4.7,1075.4705266513165
+43.33699934605541,11.300974983606013,9,Acquacalda,Mc donald's,"Fast food, burgers",Via fiorentina 124,1.0,2.0,741.3445397964049
+43.33699934605541,11.300974983606013,9,Acquacalda,Fontebecci,"Pizza, italian",Via fiorentina 133,2.0,2.0,657.9800999616834
+43.33699934605541,11.300974983606013,9,Acquacalda,Skile' music bar,Cafes,Piazza calabria 18,1.0,3.0,1093.2766295340257
+43.33699934605541,11.300974983606013,9,Acquacalda,Bar giglio,"Bar, café, restaurant",Via colombini 32,,,163.0
+43.33699934605541,11.300974983606013,9,Acquacalda,Bar acquacalda,"Bar, café, restaurant",Via delle province 14,,,372.0
+43.33699934605541,11.300974983606013,9,Acquacalda,Al fiumino,"Wine bar, buffet, gastropub",Via giovanni paolo ii,,,711.0
+43.33699934605541,11.300974983606013,9,Acquacalda,Fontebecci,"Pizzeria, italian restaurant",Via fiorentina 133,,,668.0
+43.33699934605541,11.300974983606013,9,Acquacalda,Ristorante il mestolo,"Italian restaurant, seafood restaurant",Via fiorentina 81,,,502.0
+43.33699934605541,11.300974983606013,9,Acquacalda,Bar le terrazze,"Café, restaurant",Via quinto settano 19,,,534.0
+43.33699934605541,11.300974983606013,9,Acquacalda,Pizzeria poppi,Pizzeria,Via fiorentina 105,,,610.0
+43.33699934605541,11.300974983606013,9,Acquacalda,Ristorante pizzeria il jolly,"Pizzeria, italian restaurant",Via fiorentina 13,,,675.0
+43.33699934605541,11.300974983606013,9,Acquacalda,Osteria tanaliberatutti,"Deli, italian restaurant",Via uopini 1,,,851.0
+43.33699934605541,11.300974983606013,9,Acquacalda,Bistrot,Restaurant,Viale franceschi 14,,,2789.0
+43.323781022808305,11.338891018177035,10,Ravacciano,La taverna di san giuseppe,Tuscan,Via giovanni dupre 132,169.0,4.8,1091.2645488726173
+43.323781022808305,11.338891018177035,10,Ravacciano,Il bargello,"Bars, trattorie, tuscan",Via di citta' 53,23.0,4.5,924.5368214670108
+43.323781022808305,11.338891018177035,10,Ravacciano,La prosciutteria,"Wine bars, tuscan",Via di pantaneto,34.0,4.7,708.3897199292325
+43.323781022808305,11.338891018177035,10,Ravacciano,Zest,"Italian, wine bars",Costa di sant'antonio 13,26.0,4.7,905.5277371590556
+43.323781022808305,11.338891018177035,10,Ravacciano,Antica osteria da divo,Italian,Via franciosa 25,67.0,4.2,1099.3592533313006
+43.323781022808305,11.338891018177035,10,Ravacciano,Fonte giusta,Tuscan,Via camollia 102,21.0,4.6,970.637496752018
+43.323781022808305,11.338891018177035,10,Ravacciano,Antica trattoria papei,"Tuscan, trattorie",Via del mercato 6,35.0,4.2,874.5097588030465
+43.323781022808305,11.338891018177035,10,Ravacciano,Vi vace,"Pizza, italian",Via stalloreggi 64,34.0,4.3,1275.8530057264636
+43.323781022808305,11.338891018177035,10,Ravacciano,Compagnia dei vinattieri,Tuscan,"Via delle terme, 79",24.0,4.3,811.9349826688245
+43.323781022808305,11.338891018177035,10,Ravacciano,Numero unico,Italian,Via di citta 125,17.0,4.5,1073.3183974538183
+43.323781022808305,11.338891018177035,10,Ravacciano,Taverna di cecco,Tuscan,Via cecco angliolieri 19,52.0,4.5,701.7432267070961
+43.323781022808305,11.338891018177035,10,Ravacciano,La chiacchiera,Italian,Via costa di san antonio 4,23.0,4.3,903.8359529240907
+43.323781022808305,11.338891018177035,10,Ravacciano,Café nannini,Cafes,Piazza matteotti 32,14.0,4.4,857.9628049110418
+43.323781022808305,11.338891018177035,10,Ravacciano,Ri.me.,Tuscan,Via giovanni duprè 90,15.0,4.3,1058.8826795638254
+43.323781022808305,11.338891018177035,10,Ravacciano,Gallo nero,Tuscan,Via del porrione 65,11.0,4.4,749.0228960884958
+43.323781022808305,11.338891018177035,10,Ravacciano,Salefino vino e cucina,"Tuscan, wine bars",Via degli umiliati 1,11.0,4.5,867.1372428579568
+43.323781022808305,11.338891018177035,10,Ravacciano,Nannini,"Desserts, patisserie/cake shop, cafes",Via banchi di sopra 24,20.0,4.2,749.4629536574713
+43.323781022808305,11.338891018177035,10,Ravacciano,Ostaria dá cice,Italian,Via san pietro 32,14.0,4.0,1126.001920197814
+43.323781022808305,11.338891018177035,10,Ravacciano,Ristorante san desiderio,Italian,Piazza l. bonelli 2,16.0,3.9,966.2643116849108
+43.323781022808305,11.338891018177035,10,Ravacciano,Osteria la sosta di violante,Tuscan,Via di pantaneto 115,25.0,4.6,734.3596364110529
+43.323781022808305,11.338891018177035,10,Ravacciano,La grotta di san francesco,"Pizzeria, italian restaurant, soup spot",Via baldassarre peruzzi 20,,,206.0
+43.323781022808305,11.338891018177035,10,Ravacciano,Particolare di siena,Restaurant,Via baldassarre peruzzi 26,,,208.0
+43.323781022808305,11.338891018177035,10,Ravacciano,Osteria l'osteria,Italian restaurant,Via dei rossi 79,,,590.0
+43.323781022808305,11.338891018177035,10,Ravacciano,L'oro di siena di luppoli marcellino & c. snc,"Pizzeria, italian restaurant",Via giuseppe garibaldi 61,,,621.0
+43.323781022808305,11.338891018177035,10,Ravacciano,La madonnina rossa,Restaurant,Via simone martini 148,,,337.0
+43.323781022808305,11.338891018177035,10,Ravacciano,Sushi bar,"Trattoria, japanese restaurant",Via domenico beccafumi 10,,,519.0
+43.323781022808305,11.338891018177035,10,Ravacciano,La prosciutteria,"Bar, italian restaurant, tapas restaurant",Via di pantaneto 89,,,712.0
+43.323781022808305,11.338891018177035,10,Ravacciano,Grotta gallo nero,Italian restaurant,Via porrione 65,,,758.0
+43.323781022808305,11.338891018177035,10,Ravacciano,Osteria la sosta di violante,Trattoria,Via di pantaneto 115,,,736.0
+43.323781022808305,11.338891018177035,10,Ravacciano,Gallo nero,Italian restaurant,Via del porrione 65,,,750.0
+43.34779988043242,11.326045898741882,10,S. miniato,La pizzeria di san miniato,Pizzeria,Piazza palmiro togliatti 2,,,26.0
+43.34779988043242,11.326045898741882,10,S. miniato,Mensa san miniato ristorante,Restaurant,Via de nicola 9,,,536.0
+43.34779988043242,11.326045898741882,10,S. miniato,Il palio restaurant,Restaurant,Via a. lombardi 41 four points by sheraton,,,833.0
+43.33228840552265,11.32417581394725,12,Terminal bus,Fonte giusta,Tuscan,Via camollia 102,21.0,4.6,776.7257049114709
+43.33228840552265,11.32417581394725,12,Terminal bus,Ravioli wang,Chinese,Viale vittorio emanuele ii 38,9.0,4.8,424.9526588211536
+43.33228840552265,11.32417581394725,12,Terminal bus,Salefino vino e cucina,"Tuscan, wine bars",Via degli umiliati 1,11.0,4.5,948.129346840988
+43.33228840552265,11.32417581394725,12,Terminal bus,Il vinaio,"Sandwiches, tuscan, fast food",Via camollia 167,12.0,4.3,630.986858019045
+43.33228840552265,11.32417581394725,12,Terminal bus,Osteria di kamollia,Tuscan,Via di camollia 114,9.0,4.2,765.2880088434098
+43.33228840552265,11.32417581394725,12,Terminal bus,L'oro di siena,"Pizza, italian, trattorie",Via garibaldi 61,9.0,4.8,1016.2162345511688
+43.33228840552265,11.32417581394725,12,Terminal bus,Sushiko,"Sushi bars, asian fusion",Piazzale carlo rosselli 25,2.0,4.0,193.9925360536807
+43.33228840552265,11.32417581394725,12,Terminal bus,Ristorante da enzo,Italian,Via camollia 49,7.0,4.6,917.3055828773076
+43.33228840552265,11.32417581394725,12,Terminal bus,Susy sushi,"Japanese, sushi bars",Piazza rosselli,1.0,4.0,172.55804094643364
+43.33228840552265,11.32417581394725,12,Terminal bus,Mozzarella e basilico,"Trattorie, napoletana, pizza",Piazzale rosselli 25,1.0,1.0,203.5593763725637
+43.33228840552265,11.32417581394725,12,Terminal bus,Cafe berta,Cafes,Piazza guido chigi saracini,3.0,4.7,543.0627776657673
+43.33228840552265,11.32417581394725,12,Terminal bus,La grotta di san francesco,"Seafood, tuscan",Via camollia 25,1.0,5.0,1000.1718741723432
+43.33228840552265,11.32417581394725,12,Terminal bus,Tia loca,"Pizza, italian, mediterranean",Via bettino ricasoli 55,2.0,2.5,605.1366828898593
+43.33228840552265,11.32417581394725,12,Terminal bus,Ristorante minohana,Tuscan,Viale vittorio emanuele ii 32,2.0,1.0,436.5203523030188
+43.33228840552265,11.32417581394725,12,Terminal bus,Pasta mondo,"Pizza, italian, pasta shops",Via camollia 173,1.0,5.0,660.6274891256949
+43.33228840552265,11.32417581394725,12,Terminal bus,Cartazucchero,"Used bookstore, bookstores, cafeteria",Via camollia 92,1.0,5.0,795.2974473954035
+43.33228840552265,11.32417581394725,12,Terminal bus,Ristorante pizzeria i gabellieri,Pizza,Via v. emanuele 75,2.0,4.0,425.9489617725945
+43.33228840552265,11.32417581394725,12,Terminal bus,Il salotto,Tuscan,Via camollia 32,3.0,3.7,929.2421178124688
+43.33228840552265,11.32417581394725,12,Terminal bus,Bar cecco,"Cafes, fast food, pizza, coffee & tea",Viale camillo benso conte di cavour,3.0,3.0,875.4986776010403
+43.33228840552265,11.32417581394725,12,Terminal bus,Medo cucina arte & vino,Vegetarian,Piazza del sale 3,1.0,5.0,967.184559091466
+43.33228840552265,11.32417581394725,12,Terminal bus,Sushiko,Sushi restaurant,Piazzale carlo rosselli 25,,,211.0
+43.33228840552265,11.32417581394725,12,Terminal bus,Ravioli wang,Chinese restaurant,Viale vittorio emanuele ii 38,,,415.0
+43.33228840552265,11.32417581394725,12,Terminal bus,Turkish pace kebap,Turkish restaurant,Viale vittorio emanuele ii 21,,,487.0
+43.33228840552265,11.32417581394725,12,Terminal bus,Osteria il vinaio,"Deli, tuscan restaurant",Via camollia 167,,,664.0
+43.33228840552265,11.32417581394725,12,Terminal bus,Osteria di kamollia,"Trattoria, tuscan restaurant",Via camollia 114,,,765.0
+43.33228840552265,11.32417581394725,12,Terminal bus,Trattoria fonte giusta,"Trattoria, tuscan restaurant",Via camollia 102,,,779.0
+43.33228840552265,11.32417581394725,12,Terminal bus,Osteria la piana,Trattoria,Via camollia 122,,,719.0
+43.33228840552265,11.32417581394725,12,Terminal bus,Charlie bar,"Wine bar, café, restaurant",Viale camillo benso conte di cavour 58,,,474.0
+43.33228840552265,11.32417581394725,12,Terminal bus,Pasticceria corsini siena,"Bakery, café, restaurant",Viale a. diaz,,,846.0
+43.33228840552265,11.32417581394725,12,Terminal bus,Enzo,"Hair salon, restaurant",Via camollia 49,,,938.0
+43.34144450071458,11.312348354700475,8,Vico alto,La veranda,Italian,Piazza calabria,6.0,4.7,50.228357191496194
+43.34144450071458,11.312348354700475,8,Vico alto,Skile' music bar,Cafes,Piazza calabria 18,1.0,3.0,81.3421873973679
+43.34144450071458,11.312348354700475,8,Vico alto,Antica trattoria botteganova,"Italian, bars",Strada chiantigiana 29,1.0,5.0,686.5402064357199
+43.34144450071458,11.312348354700475,8,Vico alto,Mc donald's,"Fast food, burgers",Via fiorentina 124,1.0,2.0,482.4272833515509
+43.34144450071458,11.312348354700475,8,Vico alto,Fontebecci,"Pizza, italian",Via fiorentina 133,2.0,2.0,572.730254582314
+43.34144450071458,11.312348354700475,8,Vico alto,La veranda,Pizzeria,Piazza calabria 20,,,49.0
+43.34144450071458,11.312348354700475,8,Vico alto,Al fiumino,"Wine bar, buffet, gastropub",Via giovanni paolo ii,,,331.0
+43.34144450071458,11.312348354700475,8,Vico alto,Fontebecci,"Pizzeria, italian restaurant",Via fiorentina 133,,,532.0
+43.34144450071458,11.312348354700475,8,Vico alto,Pizzeria poppi,Pizzeria,Via fiorentina 105,,,519.0
+43.34144450071458,11.312348354700475,8,Vico alto,Ristorante il mestolo,"Italian restaurant, seafood restaurant",Via fiorentina 81,,,556.0
+43.34144450071458,11.312348354700475,8,Vico alto,Bar le terrazze,"Café, restaurant",Via quinto settano 19,,,750.0
+43.34144450071458,11.312348354700475,8,Vico alto,Ristorante pizzeria il jolly,"Pizzeria, italian restaurant",Via fiorentina 13,,,782.0
+43.34144450071458,11.312348354700475,8,Vico alto,Bar mens sana,"Bar, café, restaurant",Via bartalini 1,,,826.0
+43.34144450071458,11.312348354700475,8,Vico alto,Macelleria parenti,Steakhouse,Viale camillo benso conte di cavour 228,,,842.0
+43.34144450071458,11.312348354700475,8,Vico alto,Bar acquacalda,"Bar, café, restaurant",Via delle province 14,,,852.0
+43.3267643528839,11.333701602030146,6,Casa dell'ambiente,Il bargello,"Bars, trattorie, tuscan",Via di citta' 53,23.0,4.5,1009.1284218845644
+43.3267643528839,11.333701602030146,6,Casa dell'ambiente,Zest,"Italian, wine bars",Costa di sant'antonio 13,26.0,4.7,832.934517504512
+43.3267643528839,11.333701602030146,6,Casa dell'ambiente,Fonte giusta,Tuscan,Via camollia 102,21.0,4.6,542.597331378181
+43.3267643528839,11.333701602030146,6,Casa dell'ambiente,La prosciutteria,"Wine bars, tuscan",Via di pantaneto,34.0,4.7,985.9909341783866
+43.3267643528839,11.333701602030146,6,Casa dell'ambiente,Antica osteria da divo,Italian,Via franciosa 25,67.0,4.2,1090.0019710467593
+43.3267643528839,11.333701602030146,6,Casa dell'ambiente,L'oro di siena,"Pizza, italian, trattorie",Via garibaldi 61,9.0,4.8,295.240620211039
+43.3267643528839,11.333701602030146,6,Casa dell'ambiente,Compagnia dei vinattieri,Tuscan,"Via delle terme, 79",24.0,4.3,781.7017726903798
+43.3267643528839,11.333701602030146,6,Casa dell'ambiente,Taverna di cecco,Tuscan,Via cecco angliolieri 19,52.0,4.5,765.5980690538091
+43.3267643528839,11.333701602030146,6,Casa dell'ambiente,Salefino vino e cucina,"Tuscan, wine bars",Via degli umiliati 1,11.0,4.5,524.3746913352414
+43.3267643528839,11.333701602030146,6,Casa dell'ambiente,La chiacchiera,Italian,Via costa di san antonio 4,23.0,4.3,833.5335300820216
+43.3267643528839,11.333701602030146,6,Casa dell'ambiente,Café nannini,Cafes,Piazza matteotti 32,14.0,4.4,686.4185508007778
+43.3267643528839,11.333701602030146,6,Casa dell'ambiente,Gallo nero,Tuscan,Via del porrione 65,11.0,4.4,985.8153859718642
+43.3267643528839,11.333701602030146,6,Casa dell'ambiente,Nannini,"Desserts, patisserie/cake shop, cafes",Via banchi di sopra 24,20.0,4.2,817.6177840504087
+43.3267643528839,11.333701602030146,6,Casa dell'ambiente,Il vinaio,"Sandwiches, tuscan, fast food",Via camollia 167,12.0,4.3,618.9321674589352
+43.3267643528839,11.333701602030146,6,Casa dell'ambiente,Ristorante san desiderio,Italian,Piazza l. bonelli 2,16.0,3.9,1030.6356331312777
+43.3267643528839,11.333701602030146,6,Casa dell'ambiente,Osteria di kamollia,Tuscan,Via di camollia 114,9.0,4.2,544.3481853380853
+43.3267643528839,11.333701602030146,6,Casa dell'ambiente,Mugolone,"Italian, gluten-free",Via dei pellegrini 8,7.0,5.0,968.7656222524524
+43.3267643528839,11.333701602030146,6,Casa dell'ambiente,Spadaforte,Pizza,Piazza del campo 13,11.0,4.3,1005.4886681592126
+43.3267643528839,11.333701602030146,6,Casa dell'ambiente,Ristorante san domenico,Tuscan,Via di camporegio 15,7.0,4.7,866.537722900049
+43.3267643528839,11.333701602030146,6,Casa dell'ambiente,Ravioli wang,Chinese,Viale vittorio emanuele ii 38,9.0,4.8,866.6514237555052
+43.3267643528839,11.333701602030146,6,Casa dell'ambiente,L'oro di siena di luppoli marcellino & c. snc,"Pizzeria, italian restaurant",Via giuseppe garibaldi 61,,,295.0
+43.3267643528839,11.333701602030146,6,Casa dell'ambiente,Sushi bar,"Trattoria, japanese restaurant",Via domenico beccafumi 10,,,198.0
+43.3267643528839,11.333701602030146,6,Casa dell'ambiente,Osteria l'osteria,Italian restaurant,Via dei rossi 79,,,579.0
+43.3267643528839,11.333701602030146,6,Casa dell'ambiente,Osteria di kamollia,"Trattoria, tuscan restaurant",Via camollia 114,,,551.0
+43.3267643528839,11.333701602030146,6,Casa dell'ambiente,Trattoria fonte giusta,"Trattoria, tuscan restaurant",Via camollia 102,,,545.0
+43.3267643528839,11.333701602030146,6,Casa dell'ambiente,Enzo,"Hair salon, restaurant",Via camollia 49,,,541.0
+43.3267643528839,11.333701602030146,6,Casa dell'ambiente,Osteria il vinaio,"Deli, tuscan restaurant",Via camollia 167,,,607.0
+43.3267643528839,11.333701602030146,6,Casa dell'ambiente,La grotta di san francesco,"Pizzeria, italian restaurant, soup spot",Via baldassarre peruzzi 20,,,503.0
+43.3267643528839,11.333701602030146,6,Casa dell'ambiente,Tre cristi,Italian restaurant,Vicolo di provenzano 1,,,586.0
+43.3267643528839,11.333701602030146,6,Casa dell'ambiente,Osteria le sorelline,Restaurant,Via dei rossi 76,,,560.0
+43.309896469034115,11.315263114715208,10,Frajese,Osteria nonna gina,Tuscan,"Via piano dei mantellini, 2",38.0,4.2,1155.8224781058368
+43.309896469034115,11.315263114715208,10,Frajese,Da michele,"Tuscan, seafood, pizza",Strada massetana 64,1.0,5.0,140.3971018375967
+43.309896469034115,11.315263114715208,10,Frajese,Sotto le fonti,"Pizza, tuscan",Via esterna di fontebranda 114,6.0,4.5,1126.830869064844
+43.309896469034115,11.315263114715208,10,Frajese,Da michele,Tuscan,Strada massetana 64,2.0,3.0,276.96413695455834
+43.309896469034115,11.315263114715208,10,Frajese,Biovita,"Cafeteria, health markets, vegetarian",Via massetana romana 54,1.0,5.0,937.9382758442632
+43.309896469034115,11.315263114715208,10,Frajese,Nannini,"Cafeteria, italian, cupcakes",Via banchi di sopra 24,1.0,2.0,420.5235051762208
+43.309896469034115,11.315263114715208,10,Frajese,Enzo sushi,Restaurant,Via paolo frajese 63,,,44.0
+43.309896469034115,11.315263114715208,10,Frajese,Cannoleria ke cassata,Restaurant,Strada di pescaia 117,,,118.0
+43.309896469034115,11.315263114715208,10,Frajese,Da michele,"Pizzeria, italian restaurant, soup spot",Strada massetana 64,,,134.0
+43.309896469034115,11.315263114715208,10,Frajese,Il tagliere di lele,"Bar, gastropub, pizzeria",Strada pescaia 129,,,137.0
+43.309896469034115,11.315263114715208,10,Frajese,Centotre art pizza bar,Pizzeria,Strada di pescaia 129,,,142.0
+43.309896469034115,11.315263114715208,10,Frajese,Bar rigacci,Café,Via di pescaia 129,,,162.0
+43.309896469034115,11.315263114715208,10,Frajese,Roadhouse,Restaurant,Strada di montalbuccio 2,,,178.0
+43.309896469034115,11.315263114715208,10,Frajese,Il barrino,"Wine bar, café, sandwich spot",Via massetana romana 5,,,358.0
+43.309896469034115,11.315263114715208,10,Frajese,Il portico braceria,"Cafe, coffee, and tea house, pizzeria",Strada di pescaia 53,,,487.0
+43.309896469034115,11.315263114715208,10,Frajese,Metropolis caffé,Café,Via paolo frajese 23,,,529.0
+43.31731492915876,11.332998096329902,12,Mercato,La taverna di san giuseppe,Tuscan,Via giovanni dupre 132,169.0,4.8,229.69977052778395
+43.31731492915876,11.332998096329902,12,Mercato,Il bargello,"Bars, trattorie, tuscan",Via di citta' 53,23.0,4.5,195.1436106299548
+43.31731492915876,11.332998096329902,12,Mercato,La prosciutteria,"Wine bars, tuscan",Via di pantaneto,34.0,4.7,199.54479012894396
+43.31731492915876,11.332998096329902,12,Mercato,Antica trattoria papei,"Tuscan, trattorie",Via del mercato 6,35.0,4.2,79.89251787519889
+43.31731492915876,11.332998096329902,12,Mercato,Numero unico,Italian,Via di citta 125,17.0,4.5,246.88325946139807
+43.31731492915876,11.332998096329902,12,Mercato,Ri.me.,Tuscan,Via giovanni duprè 90,15.0,4.3,196.51371479233293
+43.31731492915876,11.332998096329902,12,Mercato,Gallo nero,Tuscan,Via del porrione 65,11.0,4.4,127.80804201921748
+43.31731492915876,11.332998096329902,12,Mercato,Nannini,"Desserts, patisserie/cake shop, cafes",Via banchi di sopra 24,20.0,4.2,272.1120330166504
+43.31731492915876,11.332998096329902,12,Mercato,Zest,"Italian, wine bars",Costa di sant'antonio 13,26.0,4.7,458.9875111537301
+43.31731492915876,11.332998096329902,12,Mercato,Antica osteria da divo,Italian,Via franciosa 25,67.0,4.2,411.2471404794785
+43.31731492915876,11.332998096329902,12,Mercato,Ostaria dá cice,Italian,Via san pietro 32,14.0,4.0,276.18909530271804
+43.31731492915876,11.332998096329902,12,Mercato,Ristorante san desiderio,Italian,Piazza l. bonelli 2,16.0,3.9,238.96166103406236
+43.31731492915876,11.332998096329902,12,Mercato,Spadaforte,Pizza,Piazza del campo 13,11.0,4.3,160.9526155007609
+43.31731492915876,11.332998096329902,12,Mercato,Compagnia dei vinattieri,Tuscan,"Via delle terme, 79",24.0,4.3,399.8247199125929
+43.31731492915876,11.332998096329902,12,Mercato,Mugolone,"Italian, gluten-free",Via dei pellegrini 8,7.0,5.0,253.34644403156923
+43.31731492915876,11.332998096329902,12,Mercato,Prètto,"Salumerie, cheese shops, tuscan",Via dei termini 4,12.0,4.1,284.4397846448097
+43.31731492915876,11.332998096329902,12,Mercato,Osteria le logge,Italian,Via del porrione 33,33.0,4.1,131.6543228192443
+43.31731492915876,11.332998096329902,12,Mercato,Vi vace,"Pizza, italian",Via stalloreggi 64,34.0,4.3,445.9593678427501
+43.31731492915876,11.332998096329902,12,Mercato,Taverna di cecco,Tuscan,Via cecco angliolieri 19,52.0,4.5,310.2762377818051
+43.31731492915876,11.332998096329902,12,Mercato,Il bandierino,"Bars, pizza, tuscan",Piazza campo 64,26.0,3.1,183.0582647120661
+43.31731492915876,11.332998096329902,12,Mercato,Gino cacino,Food and beverage retail,Piazza del mercato 31,,,49.0
+43.31731492915876,11.332998096329902,12,Mercato,Ristorante la finestra,"Diner, italian restaurant",Piazza mercato 14,,,63.0
+43.31731492915876,11.332998096329902,12,Mercato,Grotta gallo nero,Italian restaurant,Via porrione 65,,,110.0
+43.31731492915876,11.332998096329902,12,Mercato,Gallo nero,Italian restaurant,Via del porrione 65,,,126.0
+43.31731492915876,11.332998096329902,12,Mercato,Osteria il carroccio,Trattoria,Via casato di sotto 32,,,124.0
+43.31731492915876,11.332998096329902,12,Mercato,La prosciutteria,"Bar, italian restaurant, tapas restaurant",Via di pantaneto 89,,,194.0
+43.31731492915876,11.332998096329902,12,Mercato,La taverna di san giuseppe,"Tuscan restaurant, mediterranean restaurant",Via giovanni duprè 132,,,237.0
+43.31731492915876,11.332998096329902,12,Mercato,La bottega del caffè,"Bar, café, restaurant",Via banchi di sotto 39,,,202.0
+43.31731492915876,11.332998096329902,12,Mercato,Caffè fiorella,Café,Via di città 13,,,235.0
+43.31731492915876,11.332998096329902,12,Mercato,Ristorante san desiderio,"Pizzeria, italian restaurant",Piazzetta bonelli luigi 2,,,244.0
+43.296855852957854,11.334853581853508,9,Tufi,Biovita,"Cafeteria, health markets, vegetarian",Via massetana romana 54,1.0,5.0,1226.9015089171305
+43.296855852957854,11.334853581853508,9,Tufi,Il tocco,"Pizza, cafes, tuscan",Via cassia sud 122,2.0,4.0,1005.5410567099854
+43.34340723815478,11.322848796844482,10,Calamandrei,La veranda,Italian,Piazza calabria,6.0,4.7,857.857508181388
+43.34340723815478,11.322848796844482,10,Calamandrei,Skile' music bar,Cafes,Piazza calabria 18,1.0,3.0,850.2699737998013
+43.34340723815478,11.322848796844482,10,Calamandrei,Mensa san miniato ristorante,Restaurant,Via de nicola 9,,,110.0
+43.34340723815478,11.322848796844482,10,Calamandrei,Il palio restaurant,Restaurant,Via a. lombardi 41 four points by sheraton,,,448.0
+43.34340723815478,11.322848796844482,10,Calamandrei,La pizzeria di san miniato,Pizzeria,Piazza palmiro togliatti 2,,,576.0
+43.34340723815478,11.322848796844482,10,Calamandrei,La veranda,Pizzeria,Piazza calabria 20,,,856.0
+43.34340723815478,11.322848796844482,10,Calamandrei,Pizzeria scacciapensieri,Pizzeria,Via nazareno orlandi 21,,,614.0
+43.34340723815478,11.322848796844482,10,Calamandrei,Ristorante colleverde,Pizzeria,Strada di scacciapensieri 47,,,974.0
+43.34340723815478,11.322848796844482,10,Calamandrei,Pizzeria ristorante camping colleverde,Pizzeria,Strada di scacciapensieri 47,,,979.0
+43.33464040894888,11.304802894592289,10,Petriccio,Hotel garden,"Venues & event spaces, hotels, italian",Via custoza 2,13.0,2.8,741.1333389088937
+43.33464040894888,11.304802894592289,10,Petriccio,La veranda,Italian,Piazza calabria,6.0,4.7,1015.945443550808
+43.33464040894888,11.304802894592289,10,Petriccio,Mc donald's,"Fast food, burgers",Via fiorentina 124,1.0,2.0,864.6041400557705
+43.33464040894888,11.304802894592289,10,Petriccio,Bar cecco,"Cafes, fast food, pizza, coffee & tea",Viale camillo benso conte di cavour,3.0,3.0,738.6663240088411
+43.33464040894888,11.304802894592289,10,Petriccio,Fontebecci,"Pizza, italian",Via fiorentina 133,2.0,2.0,820.1977595702692
+43.33464040894888,11.304802894592289,10,Petriccio,Skile' music bar,Cafes,Piazza calabria 18,1.0,3.0,1042.034487595549
+43.33464040894888,11.304802894592289,10,Petriccio,Bar giglio,"Bar, café, restaurant",Via colombini 32,,,297.0
+43.33464040894888,11.304802894592289,10,Petriccio,Al fiumino,"Wine bar, buffet, gastropub",Via giovanni paolo ii,,,672.0
+43.33464040894888,11.304802894592289,10,Petriccio,Ristorante il mestolo,"Italian restaurant, seafood restaurant",Via fiorentina 81,,,580.0
+43.33464040894888,11.304802894592289,10,Petriccio,Fontebecci,"Pizzeria, italian restaurant",Via fiorentina 133,,,810.0
+43.33464040894888,11.304802894592289,10,Petriccio,Pizzeria la fenice siena,Pizzeria,Via fiorentina 88,,,648.0

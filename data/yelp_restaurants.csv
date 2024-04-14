@@ -1,4 +1,4 @@
-resturant_name,categories,address,review_count,rating,station_name,distance
+restaurant_name,categories,address,review_count,rating,station_name,distance
 La Taverna di San Giuseppe,Tuscan,Via Giovanni Dupre 132,169,4.8,Curtatone,745.3950068003921
 Zest,"Italian, Wine Bars",Costa di Sant'antonio 13,26,4.7,Curtatone,177.8481186916926
 Compagnia dei Vinattieri,Tuscan,"Via delle Terme, 79",24,4.3,Curtatone,231.84660552404864
@@ -6,19 +6,19 @@ La Chiacchiera,Italian,Via Costa di San Antonio 4,23,4.3,Curtatone,181.200689794
 Café Nannini,Cafes,Piazza Matteotti 32,14,4.4,Curtatone,60.45122208199806
 Il Bargello,"Bars, Trattorie, Tuscan",Via di Citta' 53,23,4.5,Curtatone,465.0334648689132
 Pizzeria alle Scalette,Pizza,Viale Curtatone 18,5,4.6,Curtatone,26.635507807969088
-Antica Osteria da Divo,Italian,Via Franciosa 25,66,4.2,Curtatone,412.4497868613417
+Antica Osteria da Divo,Italian,Via Franciosa 25,67,4.2,Curtatone,412.4497868613417
 Salefino Vino e Cucina,"Tuscan, Wine Bars",Via degli Umiliati 1,11,4.5,Curtatone,298.4833678900178
 Ristorante San Domenico,Tuscan,Via di camporegio 15,7,4.7,Curtatone,163.22780679686343
 Nannini,"Desserts, Patisserie/Cake Shop, Cafes",Via Banchi di Sopra 24,20,4.2,Curtatone,376.55797407280886
-Duomo di Siena,"Landmarks & Historical Buildings, Churches",Piazza del Duomo 8,41,4.9,Curtatone,440.2223397690476
 Fonte Giusta,Tuscan,Via Camollia 102,21,4.6,Curtatone,454.91040632564426
-Prètto,"Salumerie, Cheese Shops, Tuscan",Via dei Termini 4,12,4.1,Curtatone,343.71631006857746
-Antica Trattoria Papei,"Tuscan, Trattorie",Via del Mercato 6,35,4.2,Curtatone,554.194906979694
-La Prosciutteria,"Wine Bars, Tuscan",Via di Pantaneto,34,4.7,Curtatone,718.0945365772096
 Taverna di Cecco,Tuscan,Via Cecco Angliolieri 19,52,4.5,Curtatone,369.2584912395237
+La Prosciutteria,"Wine Bars, Tuscan",Via di Pantaneto,34,4.7,Curtatone,718.0945365772096
+Antica Trattoria Papei,"Tuscan, Trattorie",Via del Mercato 6,35,4.2,Curtatone,554.194906979694
+Prètto,"Salumerie, Cheese Shops, Tuscan",Via dei Termini 4,12,4.1,Curtatone,343.71631006857746
 Il Masgalano,"Tuscan, Pizza",Via Camporegio 1,4,4.8,Curtatone,152.82984033641412
-Vi Vace,"Pizza, Italian",Via Stalloreggi 64,34,4.3,Curtatone,695.068416472932
 Pizzeria di Nonno Mede,"Pizza, Tuscan",Via Camporegio 21,16,4.1,Curtatone,151.88989586507486
+Trattoria La Tellina,"Mediterranean, Tuscan, Trattorie",Via delle Terme 52,6,4.3,Curtatone,256.6346024096472
+Vi Vace,"Pizza, Italian",Via Stalloreggi 64,34,4.3,Curtatone,695.068416472932
 La Taverna di San Giuseppe,Tuscan,Via Giovanni Dupre 132,169,4.8,S. Agostino,116.51204037035677
 Il Bargello,"Bars, Trattorie, Tuscan",Via di Citta' 53,23,4.5,S. Agostino,377.9902043525125
 Vi Vace,"Pizza, Italian",Via Stalloreggi 64,34,4.3,S. Agostino,245.5150549441023
@@ -26,79 +26,79 @@ Numero Unico,Italian,Via di Citta 125,17,4.5,S. Agostino,229.80562391061432
 Ri.Me.,Tuscan,Via Giovanni Duprè 90,15,4.3,S. Agostino,150.1032246321722
 Antica Trattoria Papei,"Tuscan, Trattorie",Via del Mercato 6,35,4.2,S. Agostino,355.47822262044923
 Ostaria dá Cice,Italian,Via San Pietro 32,14,4.0,S. Agostino,156.5535925287775
-Duomo di Siena,"Landmarks & Historical Buildings, Churches",Piazza del Duomo 8,41,4.9,S. Agostino,389.6224481944408
-Antica Osteria da Divo,Italian,Via Franciosa 25,66,4.2,S. Agostino,445.3660066143102
+Antica Osteria da Divo,Italian,Via Franciosa 25,67,4.2,S. Agostino,445.3660066143102
 La Prosciutteria,"Wine Bars, Tuscan",Via di Pantaneto,34,4.7,S. Agostino,513.7995026062024
 Zest,"Italian, Wine Bars",Costa di Sant'antonio 13,26,4.7,S. Agostino,645.9591950321129
-Spadaforte,Pizza,Piazza del Campo 13,11,4.3,S. Agostino,373.35999249433934
 Osteria Castelvecchio,Tuscan,Via Castelvecchio 65,10,4.4,S. Agostino,109.79334227352858
-Pizzicheria de Miccoli,Pizza,Via di Città 95,26,4.6,S. Agostino,273.87921888412967
+Spadaforte,Pizza,Piazza del Campo 13,11,4.3,S. Agostino,373.35999249433934
 Ristorante San Desiderio,Italian,Piazza L. Bonelli 2,16,3.9,S. Agostino,374.96984770428213
-Gallo Nero,Tuscan,Via del Porrione 65,11,4.4,S. Agostino,460.2775829889477
+Pizzicheria de Miccoli,Pizza,Via di Città 95,26,4.6,S. Agostino,273.87921888412967
 Antica Trattoria Stalloreggi,Tuscan,Via Stalloreggi 37,5,4.2,S. Agostino,176.98572633515437
+Gallo Nero,Tuscan,Via del Porrione 65,11,4.4,S. Agostino,460.2775829889477
 Osteria Nonna Gina,Tuscan,"Via Piano dei Mantellini, 2",38,4.2,S. Agostino,302.42143628284873
 Compagnia dei Vinattieri,Tuscan,"Via delle Terme, 79",24,4.3,S. Agostino,636.0952648988349
-Osteria Il Carroccio,Italian,Via Casato di Sotto 32,13,4.5,S. Agostino,317.2747431632341
+Taverna di Cecco,Tuscan,Via Cecco Angliolieri 19,52,4.5,S. Agostino,610.0620909245414
+Osteria Permalico,"Desserts, Wine Bars, Italian",Via Costa Larga 4,5,4.6,S. Agostino,225.6070924441927
 La Taverna di San Giuseppe,Tuscan,Via Giovanni Dupre 132,169,4.8,S. Girolamo,461.20096407182047
 La Prosciutteria,"Wine Bars, Tuscan",Via di Pantaneto,34,4.7,S. Girolamo,222.53762738772033
 Antica Trattoria Papei,"Tuscan, Trattorie",Via del Mercato 6,35,4.2,S. Girolamo,429.7383012418058
 Gallo Nero,Tuscan,Via del Porrione 65,11,4.4,S. Girolamo,277.35628275338746
 Il Bargello,"Bars, Trattorie, Tuscan",Via di Citta' 53,23,4.5,S. Girolamo,545.8638202332528
 Osteria La Sosta di Violante,Tuscan,Via di Pantaneto 115,25,4.6,S. Girolamo,123.36406670033233
-Bio & Chocolate,"Cafes, Desserts, Vegan",Via Pantaneto 75,6,4.8,S. Girolamo,246.2712721802299
 Zest,"Italian, Wine Bars",Costa di Sant'antonio 13,26,4.7,S. Girolamo,784.9978948398616
-Duomo di Siena,"Landmarks & Historical Buildings, Churches",Piazza del Duomo 8,41,4.9,S. Girolamo,683.9216666949737
-Antica Osteria da Divo,Italian,Via Franciosa 25,66,4.2,S. Girolamo,762.0858176320125
+Bio & Chocolate,"Cafes, Desserts, Vegan",Via Pantaneto 75,6,4.8,S. Girolamo,246.2712721802299
+Antica Osteria da Divo,Italian,Via Franciosa 25,67,4.2,S. Girolamo,762.0858176320125
 Ri.Me.,Tuscan,Via Giovanni Duprè 90,15,4.3,S. Girolamo,447.0056201412074
+Taverna di Cecco,Tuscan,Via Cecco Angliolieri 19,52,4.5,S. Girolamo,573.9060734249756
 Vi Vace,"Pizza, Italian",Via Stalloreggi 64,34,4.3,S. Girolamo,741.5985604750571
 Numero Unico,Italian,Via di Citta 125,17,4.5,S. Girolamo,571.4223858193872
-Taverna di Cecco,Tuscan,Via Cecco Angliolieri 19,52,4.5,S. Girolamo,573.9060734249756
 Compagnia dei Vinattieri,Tuscan,"Via delle Terme, 79",24,4.3,S. Girolamo,706.039017982908
-Nannini,"Desserts, Patisserie/Cake Shop, Cafes",Via Banchi di Sopra 24,20,4.2,S. Girolamo,560.5996744621643
-La Chiacchiera,Italian,Via Costa di San Antonio 4,23,4.3,S. Girolamo,781.2253871865912
 Osteria Babazuf,Pizza,"Via di Pantaneto, 85",12,4.7,S. Girolamo,226.61489290855485
-Spadaforte,Pizza,Piazza del Campo 13,11,4.3,S. Girolamo,510.8926641727967
 Osteria Le Logge,Italian,Via del Porrione 33,33,4.1,S. Girolamo,399.0541747992876
+La Chiacchiera,Italian,Via Costa di San Antonio 4,23,4.3,S. Girolamo,781.2253871865912
+Spadaforte,Pizza,Piazza del Campo 13,11,4.3,S. Girolamo,510.8926641727967
+Nannini,"Desserts, Patisserie/Cake Shop, Cafes",Via Banchi di Sopra 24,20,4.2,S. Girolamo,560.5996744621643
+L'orto de' pecci,Italian,Via di Porta Giustizia 39,2,5.0,S. Girolamo,250.27571170718153
 La Taverna di San Giuseppe,Tuscan,Via Giovanni Dupre 132,169,4.8,Fortezza,885.992016456265
 Zest,"Italian, Wine Bars",Costa di Sant'antonio 13,26,4.7,Fortezza,458.7434934602833
-Antica Osteria da Divo,Italian,Via Franciosa 25,66,4.2,Fortezza,483.1803350838144
+Antica Osteria da Divo,Italian,Via Franciosa 25,67,4.2,Fortezza,483.1803350838144
 Il Bargello,"Bars, Trattorie, Tuscan",Via di Citta' 53,23,4.5,Fortezza,672.625868490733
-Duomo di Siena,"Landmarks & Historical Buildings, Churches",Piazza del Duomo 8,41,4.9,Fortezza,556.6835195712819
 La Chiacchiera,Italian,Via Costa di San Antonio 4,23,4.3,Fortezza,461.97612536032403
 La Prosciutteria,"Wine Bars, Tuscan",Via di Pantaneto,34,4.7,Fortezza,1016.6053701749145
 Café Nannini,Cafes,Piazza Matteotti 32,14,4.4,Fortezza,460.57547495669
+Compagnia dei Vinattieri,Tuscan,"Via delle Terme, 79",24,4.3,Fortezza,558.3799412847043
 Fonte Giusta,Tuscan,Via Camollia 102,21,4.6,Fortezza,653.4525306559705
 Vi Vace,"Pizza, Italian",Via Stalloreggi 64,34,4.3,Fortezza,701.5592869266634
 Antica Trattoria Papei,"Tuscan, Trattorie",Via del Mercato 6,35,4.2,Fortezza,787.6409772933519
-Compagnia dei Vinattieri,Tuscan,"Via delle Terme, 79",24,4.3,Fortezza,558.3799412847043
 Ristorante San Domenico,Tuscan,Via di camporegio 15,7,4.7,Fortezza,394.4324311798781
 Numero Unico,Italian,Via di Citta 125,17,4.5,Fortezza,715.4319767767048
 Taverna di Cecco,Tuscan,Via Cecco Angliolieri 19,52,4.5,Fortezza,707.9836792142835
-Salefino Vino e Cucina,"Tuscan, Wine Bars",Via degli Umiliati 1,11,4.5,Fortezza,579.4947325335404
 Il Masgalano,"Tuscan, Pizza",Via Camporegio 1,4,4.8,Fortezza,333.4194326610983
-Nannini,"Desserts, Patisserie/Cake Shop, Cafes",Via Banchi di Sopra 24,20,4.2,Fortezza,691.1534525262215
+Salefino Vino e Cucina,"Tuscan, Wine Bars",Via degli Umiliati 1,11,4.5,Fortezza,579.4947325335404
 Ri.Me.,Tuscan,Via Giovanni Duprè 90,15,4.3,Fortezza,870.201133815654
+Pizzeria alle Scalette,Pizza,Viale Curtatone 18,5,4.6,Fortezza,395.28932369786094
+Nannini,"Desserts, Patisserie/Cake Shop, Cafes",Via Banchi di Sopra 24,20,4.2,Fortezza,691.1534525262215
 Gallo Nero,Tuscan,Via del Porrione 65,11,4.4,Fortezza,945.5898802856851
 Ravioli Wang,Chinese,Viale Vittorio Emanuele II 38,9,4.8,Antiporto,120.58067642097888
 Zest,"Italian, Wine Bars",Costa di Sant'antonio 13,26,4.7,Antiporto,1132.2463792402077
 Fonte Giusta,Tuscan,Via Camollia 102,21,4.6,Antiporto,563.9911785537508
 Il Vinaio,"Sandwiches, Tuscan, Fast Food",Via Camollia 167,12,4.3,Antiporto,414.7080485270773
 Compagnia dei Vinattieri,Tuscan,"Via delle Terme, 79",24,4.3,Antiporto,1177.428981530476
-La Chiacchiera,Italian,Via Costa di San Antonio 4,23,4.3,Antiporto,1135.7333916353962
 Taverna di Cecco,Tuscan,Via Cecco Angliolieri 19,52,4.5,Antiporto,1287.2085725139164
+La Chiacchiera,Italian,Via Costa di San Antonio 4,23,4.3,Antiporto,1135.7333916353962
 Salefino Vino e Cucina,"Tuscan, Wine Bars",Via degli Umiliati 1,11,4.5,Antiporto,729.2246722651199
 Café Nannini,Cafes,Piazza Matteotti 32,14,4.4,Antiporto,965.2285567437651
+Ristorante Pizzeria I Gabellieri,Pizza,Via V. Emanuele 75,2,4.0,Antiporto,21.55550155548726
 Ristorante San Domenico,Tuscan,Via di camporegio 15,7,4.7,Antiporto,1102.8594267706262
 Osteria di Kamollia,Tuscan,Via di Camollia 114,9,4.2,Antiporto,553.8601830634374
-Ristorante Pizzeria I Gabellieri,Pizza,Via V. Emanuele 75,2,4.0,Antiporto,21.55550155548726
-Osteria Il Grattacielo,Italian,Via Pontani 8,36,4.1,Antiporto,1205.0572007002397
 L'oro di Siena,"Pizza, Italian, Trattorie",Via Garibaldi 61,9,4.8,Antiporto,892.8690137883399
+Osteria Il Grattacielo,Italian,Via Pontani 8,36,4.1,Antiporto,1205.0572007002397
 Sushiko,"Sushi Bars, Asian Fusion",Piazzale Carlo Rosselli 25,2,4.0,Antiporto,216.55854892762764
 Pizzeria alle Scalette,Pizza,Viale Curtatone 18,5,4.6,Antiporto,979.1505547054105
 Ristorante Da Enzo,Italian,Via Camollia 49,7,4.6,Antiporto,691.8371797785406
 Trattoria La Tellina,"Mediterranean, Tuscan, Trattorie",Via delle Terme 52,6,4.3,Antiporto,1201.964874917085
 Il Masgalano,"Tuscan, Pizza",Via Camporegio 1,4,4.8,Antiporto,1060.5260136820502
-Buti pasticceria,"Chocolatiers & Shops, Desserts","Viale Vittorio Emanuele II, 53",1,5.0,Antiporto,178.4901095263588
+Ristorante Minohana,Tuscan,Viale Vittorio Emanuele II 32,2,1.0,Antiporto,152.06299121902896
 Donna Ripalta,"Tuscan, Seafood, Apulian",Viale Pietro Toselli 41,1,4.0,Due Ponti,84.06785457395976
 Havana Club,"Cuban, Steakhouses",Piazza Maestri del Lavoro 27,1,5.0,Due Ponti,217.53998284698952
 Albergo Certosa di Maggiano,"Hotels & Travel, Restaurants","Str. di Certosa, 82",2,5.0,Due Ponti,822.5458659038122
@@ -106,33 +106,31 @@ Fontebecci,"Pizza, Italian",Via Fiorentina 133,2,2.0,Napoli,36.86679666722005
 Mc Donald's,"Fast Food, Burgers",Via Fiorentina 124,1,2.0,Napoli,135.94427190183262
 la veranda,Italian,Piazza Calabria,6,4.7,Napoli,601.6252259216968
 Antica Trattoria Botteganova,"Italian, Bars",Strada Chiantigiana 29,1,5.0,Napoli,659.4005888623332
-Dream Cafe',Bars,"Str. Statale 222 Chiantigiana, 13",1,4.0,Napoli,429.85987406525885
 Skile' Music Bar,Cafes,Piazza Calabria 18,1,3.0,Napoli,605.2291600282962
 Hotel Garden,"Venues & Event Spaces, Hotels, Italian",Via Custoza 2,13,2.8,Acquacalda,1146.6171969068578
 la veranda,Italian,Piazza Calabria,6,4.7,Acquacalda,1075.4705266513163
 Mc Donald's,"Fast Food, Burgers",Via Fiorentina 124,1,2.0,Acquacalda,741.3445397964049
 Fontebecci,"Pizza, Italian",Via Fiorentina 133,2,2.0,Acquacalda,657.9800999616834
-Dream Cafe',Bars,"Str. Statale 222 Chiantigiana, 13",1,4.0,Acquacalda,1048.6208049339002
 Skile' Music Bar,Cafes,Piazza Calabria 18,1,3.0,Acquacalda,1093.2766295340255
 La Taverna di San Giuseppe,Tuscan,Via Giovanni Dupre 132,169,4.8,Ravacciano,1091.2645488726173
 Il Bargello,"Bars, Trattorie, Tuscan",Via di Citta' 53,23,4.5,Ravacciano,924.5368214670108
 La Prosciutteria,"Wine Bars, Tuscan",Via di Pantaneto,34,4.7,Ravacciano,708.3897199292325
-Duomo di Siena,"Landmarks & Historical Buildings, Churches",Piazza del Duomo 8,41,4.9,Ravacciano,1052.9048890705176
 Zest,"Italian, Wine Bars",Costa di Sant'antonio 13,26,4.7,Ravacciano,905.5277371590556
-Antica Osteria da Divo,Italian,Via Franciosa 25,66,4.2,Ravacciano,1099.3592533313006
+Antica Osteria da Divo,Italian,Via Franciosa 25,67,4.2,Ravacciano,1099.3592533313006
 Fonte Giusta,Tuscan,Via Camollia 102,21,4.6,Ravacciano,970.637496752018
 Antica Trattoria Papei,"Tuscan, Trattorie",Via del Mercato 6,35,4.2,Ravacciano,874.5097588030465
 Vi Vace,"Pizza, Italian",Via Stalloreggi 64,34,4.3,Ravacciano,1275.8530057264636
 Compagnia dei Vinattieri,Tuscan,"Via delle Terme, 79",24,4.3,Ravacciano,811.9349826688245
 Numero Unico,Italian,Via di Citta 125,17,4.5,Ravacciano,1073.3183974538183
-La Chiacchiera,Italian,Via Costa di San Antonio 4,23,4.3,Ravacciano,903.8359529240909
 Taverna di Cecco,Tuscan,Via Cecco Angliolieri 19,52,4.5,Ravacciano,701.7432267070961
-Gallo Nero,Tuscan,Via del Porrione 65,11,4.4,Ravacciano,749.0228960884958
-Nannini,"Desserts, Patisserie/Cake Shop, Cafes",Via Banchi di Sopra 24,20,4.2,Ravacciano,749.4629536574713
+La Chiacchiera,Italian,Via Costa di San Antonio 4,23,4.3,Ravacciano,903.8359529240909
 Café Nannini,Cafes,Piazza Matteotti 32,14,4.4,Ravacciano,857.9628049110418
-Salefino Vino e Cucina,"Tuscan, Wine Bars",Via degli Umiliati 1,11,4.5,Ravacciano,867.1372428579568
 Ri.Me.,Tuscan,Via Giovanni Duprè 90,15,4.3,Ravacciano,1058.8826795638254
+Gallo Nero,Tuscan,Via del Porrione 65,11,4.4,Ravacciano,749.0228960884958
+Salefino Vino e Cucina,"Tuscan, Wine Bars",Via degli Umiliati 1,11,4.5,Ravacciano,867.1372428579568
+Nannini,"Desserts, Patisserie/Cake Shop, Cafes",Via Banchi di Sopra 24,20,4.2,Ravacciano,749.4629536574713
 Ostaria dá Cice,Italian,Via San Pietro 32,14,4.0,Ravacciano,1126.0019201978141
+Ristorante San Desiderio,Italian,Piazza L. Bonelli 2,16,3.9,Ravacciano,966.2643116849107
 Osteria La Sosta di Violante,Tuscan,Via di Pantaneto 115,25,4.6,Ravacciano,734.3596364110529
 Fonte Giusta,Tuscan,Via Camollia 102,21,4.6,Terminal Bus,776.7257049114709
 Ravioli Wang,Chinese,Viale Vittorio Emanuele II 38,9,4.8,Terminal Bus,424.9526588211536
@@ -144,50 +142,46 @@ Sushiko,"Sushi Bars, Asian Fusion",Piazzale Carlo Rosselli 25,2,4.0,Terminal Bus
 Ristorante Da Enzo,Italian,Via Camollia 49,7,4.6,Terminal Bus,917.3055828773076
 Susy Sushi,"Japanese, Sushi Bars",Piazza Rosselli,1,4.0,Terminal Bus,172.55804094643364
 Mozzarella e Basilico,"Trattorie, Napoletana, Pizza",Piazzale Rosselli 25,1,1.0,Terminal Bus,203.55937637256366
+Cafe Berta,Cafes,Piazza Guido Chigi Saracini,3,4.7,Terminal Bus,543.0627776657673
 La Grotta di San Francesco,"Seafood, Tuscan",Via Camollia 25,1,5.0,Terminal Bus,1000.1718741723432
 Tia Loca,"Pizza, Italian, Mediterranean",Via Bettino Ricasoli 55,2,2.5,Terminal Bus,605.1366828898593
-Cafe Berta,Cafes,Piazza Guido Chigi Saracini,3,4.7,Terminal Bus,543.0627776657673
 Ristorante Minohana,Tuscan,Viale Vittorio Emanuele II 32,2,1.0,Terminal Bus,436.5203523030188
-La Mandorla,"Desserts, Patisserie/Cake Shop, Ice Cream & Frozen Yogurt",Via Camollia 36,2,5.0,Terminal Bus,906.4682019902777
 Pasta Mondo,"Pizza, Italian, Pasta Shops",Via Camollia 173,1,5.0,Terminal Bus,660.6274891256949
-Buti pasticceria,"Chocolatiers & Shops, Desserts","Viale Vittorio Emanuele II, 53",1,5.0,Terminal Bus,463.91499962227107
-Corsini,"Desserts, Bakeries, Patisserie/Cake Shop",Via Armando Diaz 4,2,3.5,Terminal Bus,843.4196935244877
 Cartazucchero,"Used Bookstore, Bookstores, Cafeteria",Via Camollia 92,1,5.0,Terminal Bus,795.2974473954035
 Ristorante Pizzeria I Gabellieri,Pizza,Via V. Emanuele 75,2,4.0,Terminal Bus,425.9489617725945
+Il Salotto,Tuscan,Via Camollia 32,3,3.7,Terminal Bus,929.2421178124687
+Bar Cecco,"Cafes, Fast Food, Pizza, Coffee & Tea",Viale Camillo Benso Conte Di Cavour,3,3.0,Terminal Bus,875.4986776010403
+Medo Cucina Arte & Vino,Vegetarian,Piazza del Sale 3,1,5.0,Terminal Bus,967.1845590914659
 la veranda,Italian,Piazza Calabria,6,4.7,Vico Alto,50.228357191496194
 Skile' Music Bar,Cafes,Piazza Calabria 18,1,3.0,Vico Alto,81.3421873973679
 Antica Trattoria Botteganova,"Italian, Bars",Strada Chiantigiana 29,1,5.0,Vico Alto,686.5402064357199
 Mc Donald's,"Fast Food, Burgers",Via Fiorentina 124,1,2.0,Vico Alto,482.42728335155084
-Dream Cafe',Bars,"Str. Statale 222 Chiantigiana, 13",1,4.0,Vico Alto,603.9799010016421
 Fontebecci,"Pizza, Italian",Via Fiorentina 133,2,2.0,Vico Alto,572.730254582314
 Il Bargello,"Bars, Trattorie, Tuscan",Via di Citta' 53,23,4.5,Casa dell'Ambiente,1009.1284218845645
 Zest,"Italian, Wine Bars",Costa di Sant'antonio 13,26,4.7,Casa dell'Ambiente,832.934517504512
 Fonte Giusta,Tuscan,Via Camollia 102,21,4.6,Casa dell'Ambiente,542.597331378181
 La Prosciutteria,"Wine Bars, Tuscan",Via di Pantaneto,34,4.7,Casa dell'Ambiente,985.9909341783866
-Antica Osteria da Divo,Italian,Via Franciosa 25,66,4.2,Casa dell'Ambiente,1090.0019710467593
-Compagnia dei Vinattieri,Tuscan,"Via delle Terme, 79",24,4.3,Casa dell'Ambiente,781.7017726903798
+Antica Osteria da Divo,Italian,Via Franciosa 25,67,4.2,Casa dell'Ambiente,1090.0019710467593
 L'oro di Siena,"Pizza, Italian, Trattorie",Via Garibaldi 61,9,4.8,Casa dell'Ambiente,295.240620211039
-La Chiacchiera,Italian,Via Costa di San Antonio 4,23,4.3,Casa dell'Ambiente,833.5335300820216
-Salefino Vino e Cucina,"Tuscan, Wine Bars",Via degli Umiliati 1,11,4.5,Casa dell'Ambiente,524.3746913352414
+Compagnia dei Vinattieri,Tuscan,"Via delle Terme, 79",24,4.3,Casa dell'Ambiente,781.7017726903798
 Taverna di Cecco,Tuscan,Via Cecco Angliolieri 19,52,4.5,Casa dell'Ambiente,765.5980690538091
+Salefino Vino e Cucina,"Tuscan, Wine Bars",Via degli Umiliati 1,11,4.5,Casa dell'Ambiente,524.3746913352414
+La Chiacchiera,Italian,Via Costa di San Antonio 4,23,4.3,Casa dell'Ambiente,833.5335300820216
 Café Nannini,Cafes,Piazza Matteotti 32,14,4.4,Casa dell'Ambiente,686.4185508007778
-Nannini,"Desserts, Patisserie/Cake Shop, Cafes",Via Banchi di Sopra 24,20,4.2,Casa dell'Ambiente,817.6177840504087
 Gallo Nero,Tuscan,Via del Porrione 65,11,4.4,Casa dell'Ambiente,985.8153859718642
+Nannini,"Desserts, Patisserie/Cake Shop, Cafes",Via Banchi di Sopra 24,20,4.2,Casa dell'Ambiente,817.6177840504087
 Il Vinaio,"Sandwiches, Tuscan, Fast Food",Via Camollia 167,12,4.3,Casa dell'Ambiente,618.9321674589352
+Ristorante San Desiderio,Italian,Piazza L. Bonelli 2,16,3.9,Casa dell'Ambiente,1030.6356331312775
 Osteria di Kamollia,Tuscan,Via di Camollia 114,9,4.2,Casa dell'Ambiente,544.3481853380853
 Mugolone,"Italian, Gluten-Free",Via dei Pellegrini 8,7,5.0,Casa dell'Ambiente,968.7656222524525
 Spadaforte,Pizza,Piazza del Campo 13,11,4.3,Casa dell'Ambiente,1005.4886681592126
-Ristorante San Desiderio,Italian,Piazza L. Bonelli 2,16,3.9,Casa dell'Ambiente,1030.6356331312775
-Ravioli Wang,Chinese,Viale Vittorio Emanuele II 38,9,4.8,Casa dell'Ambiente,866.6514237555052
 Ristorante San Domenico,Tuscan,Via di camporegio 15,7,4.7,Casa dell'Ambiente,866.537722900049
+Ravioli Wang,Chinese,Viale Vittorio Emanuele II 38,9,4.8,Casa dell'Ambiente,866.6514237555052
 Osteria Nonna Gina,Tuscan,"Via Piano dei Mantellini, 2",38,4.2,Frajese,1155.8224781058368
 Da Michele,"Tuscan, Seafood, Pizza",Strada Massetana 64,1,5.0,Frajese,140.39710183759667
 Sotto le Fonti,"Pizza, Tuscan",Via Esterna di Fontebranda 114,6,4.5,Frajese,1126.830869064844
 Da Michele,Tuscan,Strada Massetana 64,2,3.0,Frajese,276.96413695455834
 Biovita,"Cafeteria, Health Markets, Vegetarian",Via Massetana Romana 54,1,5.0,Frajese,937.9382758442633
-BAR Il Barrino,Bars,"Str. Massetana Romana, 5",2,5.0,Frajese,391.17567154363013
-BAR dei Mantellini di Melani Fabiola,Bars,"Via Piano dei Mantellini, 22",1,5.0,Frajese,1116.5823274206
-Fontebranda,Landmarks & Historical Buildings,Via di Fontebranda 73,3,4.3,Frajese,1406.796046980567
 Nannini,"Cafeteria, Italian, Cupcakes",Via Banchi di Sopra 24,1,2.0,Frajese,420.5235051762208
 La Taverna di San Giuseppe,Tuscan,Via Giovanni Dupre 132,169,4.8,Mercato,229.69977052778395
 Il Bargello,"Bars, Trattorie, Tuscan",Via di Citta' 53,23,4.5,Mercato,195.14361062995482
@@ -198,16 +192,16 @@ Ri.Me.,Tuscan,Via Giovanni Duprè 90,15,4.3,Mercato,196.51371479233293
 Gallo Nero,Tuscan,Via del Porrione 65,11,4.4,Mercato,127.80804201921747
 Nannini,"Desserts, Patisserie/Cake Shop, Cafes",Via Banchi di Sopra 24,20,4.2,Mercato,272.1120330166504
 Zest,"Italian, Wine Bars",Costa di Sant'antonio 13,26,4.7,Mercato,458.9875111537301
-Duomo di Siena,"Landmarks & Historical Buildings, Churches",Piazza del Duomo 8,41,4.9,Mercato,333.4805111596943
-Antica Osteria da Divo,Italian,Via Franciosa 25,66,4.2,Mercato,411.24714047947845
-Spadaforte,Pizza,Piazza del Campo 13,11,4.3,Mercato,160.9526155007609
+Antica Osteria da Divo,Italian,Via Franciosa 25,67,4.2,Mercato,411.24714047947845
 Ostaria dá Cice,Italian,Via San Pietro 32,14,4.0,Mercato,276.18909530271804
 Ristorante San Desiderio,Italian,Piazza L. Bonelli 2,16,3.9,Mercato,238.96166103406236
-Prètto,"Salumerie, Cheese Shops, Tuscan",Via dei Termini 4,12,4.1,Mercato,284.4397846448097
+Spadaforte,Pizza,Piazza del Campo 13,11,4.3,Mercato,160.9526155007609
 Compagnia dei Vinattieri,Tuscan,"Via delle Terme, 79",24,4.3,Mercato,399.8247199125929
 Mugolone,"Italian, Gluten-Free",Via dei Pellegrini 8,7,5.0,Mercato,253.34644403156923
-Vi Vace,"Pizza, Italian",Via Stalloreggi 64,34,4.3,Mercato,445.9593678427501
+Prètto,"Salumerie, Cheese Shops, Tuscan",Via dei Termini 4,12,4.1,Mercato,284.4397846448097
 Osteria Le Logge,Italian,Via del Porrione 33,33,4.1,Mercato,131.6543228192443
+Vi Vace,"Pizza, Italian",Via Stalloreggi 64,34,4.3,Mercato,445.9593678427501
+Taverna di Cecco,Tuscan,Via Cecco Angliolieri 19,52,4.5,Mercato,310.2762377818051
 Il Bandierino,"Bars, Pizza, Tuscan",Piazza Campo 64,26,3.1,Mercato,183.0582647120661
 Biovita,"Cafeteria, Health Markets, Vegetarian",Via Massetana Romana 54,1,5.0,Tufi,1226.9015089171305
 Il Tocco,"Pizza, Cafes, Tuscan",Via Cassia Sud 122,2,4.0,Tufi,1005.5410567099854
@@ -216,6 +210,6 @@ Skile' Music Bar,Cafes,Piazza Calabria 18,1,3.0,Calamandrei,850.2699737998013
 Hotel Garden,"Venues & Event Spaces, Hotels, Italian",Via Custoza 2,13,2.8,Petriccio,741.1333389088937
 la veranda,Italian,Piazza Calabria,6,4.7,Petriccio,1015.9454435508079
 Mc Donald's,"Fast Food, Burgers",Via Fiorentina 124,1,2.0,Petriccio,864.6041400557705
-Fontebecci,"Pizza, Italian",Via Fiorentina 133,2,2.0,Petriccio,820.1977595702692
 Bar Cecco,"Cafes, Fast Food, Pizza, Coffee & Tea",Viale Camillo Benso Conte Di Cavour,3,3.0,Petriccio,738.6663240088411
+Fontebecci,"Pizza, Italian",Via Fiorentina 133,2,2.0,Petriccio,820.1977595702692
 Skile' Music Bar,Cafes,Piazza Calabria 18,1,3.0,Petriccio,1042.034487595549
