@@ -13,31 +13,31 @@ The goals of this project is to:
 
 ## Process
 
-### Step 1 - Connect to API
+### Step 1 - Connect to API (city_bikes.ipynb)
 
 Send a request to Citybikes (https://citybik.es/). Recieve all the information for bike stations in Siena Italy into a json format. Organize the data to grab longitude, latitude, station name and number of bikes. Turn the json file into a dataframe and save as a csv file (bike_stations.csv).
 
-### Step 2 - Connect to multiple API's
+### Step 2 - Connect to multiple API's (yelp_foursquare_EDA.ipnb)
 
 Connect to Foursquare API ((https://developer.foursquare.com/places) and Yelp Api (https://docs.developer.yelp.com/docs/fusion-intro). Using the longitude and latitude from each station in previous step, to get information on resturants within 1000m of station. From the data grab the resturant name, categories, address, distance from station, review count and ratings if applicable. Move this data into a dataframe and save as csv file(foursquare_restaurants.csv, yelp_restaurants).
 
-### Step 3 - Join Data
+### Step 3 - Join Data (joining_data.ipynb)
 
 Join the data from each of the API's into one dataframe. Save this dataframe as a csv(bike_and_restaurants.csv).
 
-### Step 4 - Validate Join
+### Step 4 - Validate Join (joining_data.ipynb)
 
 Inspect the data from before and after the join to validate that it was done correctly.
 
-### Step 5 - EDA
+### Step 5 - EDA (joining_data.ipynb)
 
 Using the newly joined dataframe, create graphs and visualization to explore the data. Interpret the results and turn the graphs into jpgs(scatter_and_his.jpg, boxplots.jpg).
 
-### Step 6 - Database
+### Step 6 - Database (joining_data.ipynb)
 
 Turn the joined dataframe into an Database. Create the tables. Clean the dataframes and add data into the database.
 
-### Step 7 - Regression Model
+### Step 7 - Regression Model (model_building.ipyn
 
 Use the database and SQL to create a dataframe to make a regression model thats based on the number of bikes in a station and the review counts and ratings from locations nearby that station.
 
