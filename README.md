@@ -25,17 +25,17 @@ Connect to Foursquare API ((https://developer.foursquare.com/places) and Yelp Ap
 
 Join the data from each of the API's into one dataframe. Save this dataframe as a csv(bike_and_restaurants.csv).
 
-### Step 4 - EDA
+### Step 4 - Validate Join
+
+Inspect the data from before and after the join to validate that it was done correctly.
+
+### Step 5 - EDA
 
 Using the newly joined dataframe, create graphs and visualization to explore the data. Interpret the results and turn the graphs into jpgs(scatter_and_his.jpg, boxplots.jpg).
 
-### Step 5 - Database
+### Step 6 - Database
 
 Turn the joined dataframe into an Database. Create the tables. Clean the dataframes and add data into the database.
-
-### Step 6 - Validate Join
-
-Inspect the data from before and after the join to validate that it was done correctly.
 
 ### Step 7 - Regression Model
 
